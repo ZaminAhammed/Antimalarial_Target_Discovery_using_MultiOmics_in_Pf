@@ -14,7 +14,7 @@ The emergence of antimalarial resistance in Plasmodium parasites necessitates an
 ## Codes
 Run models_evaluation.py as:
 
-      python3 models_evaltion.py /path/to/training/set
+      python3 models_evaluation.py /path/to/training/set
 
 Run classify_genes.py as:
 
