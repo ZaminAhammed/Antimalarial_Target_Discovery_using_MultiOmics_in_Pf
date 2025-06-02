@@ -9,7 +9,7 @@ The emergence of antimalarial resistance in Plasmodium parasites necessitates an
 2.  Integrate the data to develop a multimodal model that classifies genes as potential novel targets for therapeutic development.
 
 ## Workplan
-![Screenshot 2025-05-28 221447](https://github.com/user-attachments/assets/ad9992c6-c336-48d6-9200-6c273e6c49c7)
+![Screenshot 2025-05-28 221447](https://github.com/user-attachments/assets/ad9992c6-c336-48d6-9200-6c273e6c49c7)!
 
 ##Codes
 Run models_evaluation.py as:
