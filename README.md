@@ -12,6 +12,6 @@ The emergence of antimalarial resistance in Plasmodium parasites necessitates an
 ![Screenshot 2025-05-28 221447](https://github.com/user-attachments/assets/ad9992c6-c336-48d6-9200-6c273e6c49c7)
 
 ## Conclusion
- ✓ Features indicating key aspects of an ideal drug target including essentiality, druggability, and selectivity, were successfully integrated.
- ✓ An XGB model performed the best when trained with a set of “positive” and “negative” genes curated by literature review and was used to classify genes in the testing set to identify potential drug targets.
- ✓ Top 50 potential targets were shortlisted for experimental validation based on the probability of positive classification and include DNA/RNA-binding protein PfAlba4, highly druggable transporters such as PfNT4 and PfDMT2, four conserved proteins of unknown function with no homologs in the host, etc.
+ *Features indicating key aspects of an ideal drug target including essentiality, druggability, and selectivity, were successfully integrated.
+ *An XGB model performed the best when trained with a set of “positive” and “negative” genes curated by literature review and was used to classify genes in the testing set to identify potential drug targets.
+ *Top 50 potential targets were shortlisted for experimental validation based on the probability of positive classification and include DNA/RNA-binding protein PfAlba4, highly druggable transporters such as PfNT4 and PfDMT2, four conserved proteins of unknown function with no homologs in the host, etc.
