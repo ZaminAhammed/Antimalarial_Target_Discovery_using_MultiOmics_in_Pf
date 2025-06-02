@@ -8,15 +8,16 @@ The emergence of antimalarial resistance in Plasmodium parasites necessitates an
 1.  Collect publicly available data that could directly or indirectly indicate the essentiality and therapeutic targetability of different P. falciparum genes.
 2.  Integrate the data to develop a multimodal model that classifies genes as potential novel targets for therapeutic development.
 
-## Workplan
-![Screenshot 2025-05-28 221447](https://github.com/user-attachments/assets/ad9992c6-c336-48d6-9200-6c273e6c49c7)!
-
 ##Codes
 Run models_evaluation.py as:
   python3 models_evaltion.py /path/to/training/set
 
 Run classify_genes.py as:
   python3 classify_genes.py /path/to/training/set /path/to/test/set /path/to/output/file.csv
+
+## Workplan
+![Screenshot 2025-05-28 221447](https://github.com/user-attachments/assets/ad9992c6-c336-48d6-9200-6c273e6c49c7)
+
 
 ## Conclusion
 1. Features indicating key aspects of an ideal drug target including essentiality, druggability, and selectivity, were successfully integrated.
