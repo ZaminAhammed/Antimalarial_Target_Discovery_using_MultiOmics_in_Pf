@@ -1,0 +1,574 @@
+S.No,Gene Product,Gene (Common Name),Gene ID,Drug,Reference,Included in Training Set 1,Included in Training Set 2
+1,Dihydroorotate Dehydrogenase,DHODH,PF3D7_0603300,"DSM265 [1]
+DSM1 [2]
+7-arylaminopyrazolo[1,5-a]pyrimidines [3]
+DSM421 [4]
+DSM74 [5]
+Genz-669178 [6]
+Genz-666136 [7]
+BRD7539 [8]
+BRD9185 [9]
+DSM502 [10]
+DSM705 [11]","Hoelz, Lucas Vb et al. “Plasmodium falciparum dihydroorotate dehydrogenase: a drug target against malaria.” Future medicinal chemistry vol. 10,15 (2018): 1853-1874. doi:10.4155/fmc-2017-0250
+[1] Phillips, Margaret A et al. “A long-duration dihydroorotate dehydrogenase inhibitor (DSM265) for prevention and treatment of malaria.” Science translational medicine vol. 7,296 (2015): 296ra111. doi:10.1126/scitranslmed.aaa6645
+[2] Phillips, Margaret A et al. “Triazolopyrimidine-based dihydroorotate dehydrogenase inhibitors with potent and selective activity against the malaria parasite Plasmodium falciparum.” Journal of medicinal chemistry vol. 51,12 (2008): 3649-53. doi:10.1021/jm8001026
+[3] Azeredo, Luís Felipe S P et al. “Evaluation of 7-arylaminopyrazolo[1,5-a]pyrimidines as anti-Plasmodium falciparum, antimalarial, and Pf-dihydroorotate dehydrogenase inhibitors.” European journal of medicinal chemistry vol. 126 (2017): 72-83. doi:10.1016/j.ejmech.2016.09.073
+[4] Phillips, Margaret A et al. “A Triazolopyrimidine-Based Dihydroorotate Dehydrogenase Inhibitor with Improved Drug-like Properties for Treatment and Prevention of Malaria.” ACS infectious diseases vol. 2,12 (2016): 945-957. doi:10.1021/acsinfecdis.6b00144
+Cheuka, Peter Mubanga et al. “Emerging Drug Targets for Antimalarial Drug Discovery: Validation and Insights into Molecular Mechanisms of Function.” Journal of medicinal chemistry vol. 67,2 (2024): 838-863. doi:10.1021/acs.jmedchem.3c01828
+[10] Kokkonda, Sreekanth et al. “Lead Optimization of a Pyrrole-Based Dihydroorotate Dehydrogenase Inhibitor Series for the Treatment of Malaria.” Journal of medicinal chemistry vol. 63,9 (2020): 4929-4956. doi:10.1021/acs.jmedchem.0c00311
+[11] Palmer, Michael J et al. “Potent Antimalarials with Development Potential Identified by Structure-Guided Computational Optimization of a Pyrrole-Based Dihydroorotate Dehydrogenase Inhibitor Series.” Journal of medicinal chemistry vol. 64,9 (2021): 6085-6136. doi:10.1021/acs.jmedchem.1c00173",Yes,Yes
+2,1-deoxy-d-xylulose-5-phosphate reductoisomerase,DXR / IspC,PF3D7_1467300,"Fosmidomycin and analogs [1]
+FR900098 and analogs [2]
+RCB-185 [3]","[1] Wang, Xu et al. “MEPicides: α,β-unsaturated Fosmidomycin N-Acyl Analogs as Efficient Inhibitors of Plasmodium falciparum 1-Deoxy-d-xylulose-5-phosphate reductoisomerase.” ACS infectious diseases vol. 9,7 (2023): 1387-1395. doi:10.1021/acsinfecdis.3c00132
+[2] Bague, Darean et al. “Inhibition of DXR in the MEP pathway with lipophilic N-alkoxyaryl FR900098 analogs.” RSC medicinal chemistry vol. 15,7 2422-2439. 22 May. 2024, doi:10.1039/d3md00642e
+[3] Edwards, Rachel L et al. “MEPicides: potent antimalarial prodrugs targeting isoprenoid biosynthesis.” Scientific reports vol. 7,1 8400. 21 Aug. 2017, doi:10.1038/s41598-017-07159-y
+Singh, Nidhi et al. “Targeting the methyl erythritol phosphate (MEP) pathway for novel antimalarial, antibacterial and herbicidal drug discovery: inhibition of 1-deoxy-D-xylulose-5-phosphate reductoisomerase (DXR) enzyme.” Current pharmaceutical design vol. 13,11 (2007): 1161-77. doi:10.2174/138161207780618939
+Xue, Jian et al. “Antimalarial and Structural Studies of Pyridine-containing Inhibitors of 1-Deoxyxylulose-5-phosphate Reductoisomerase.” ACS medicinal chemistry letters vol. 4,2 (2013): 278-282. doi:10.1021/ml300419r",Yes,Yes
+3,Thioredoxin reductase,TrxR,PF3D7_0923800,Compound 7 and 11 [1],"McCarty, Sara E et al. “Plasmodium falciparum Thioredoxin Reductase (PfTrxR) and Its Role as a Target for New Antimalarial Discovery.” Molecules (Basel, Switzerland) vol. 20,6 11459-73. 22 Jun. 2015, doi:10.3390/molecules200611459
+[1] Andricopulo, A D et al. “Specific inhibitors of Plasmodium falciparum thioredoxin reductase as potential antimalarial agents.” Bioorganic & medicinal chemistry letters vol. 16,8 (2006): 2283-92. doi:10.1016/j.bmcl.2006.01.027
+Tiwari, Neil K et al. “Preliminary LC-MS Based Screening for Inhibitors of Plasmodium falciparum Thioredoxin Reductase (PfTrxR) among a Set of Antimalarials from the Malaria Box.” Molecules (Basel, Switzerland) vol. 21,4 424. 28 Mar. 2016, doi:10.3390/molecules21040424",Yes,Yes
+4,Dihydrofolate Reductase,DHFR,PF3D7_0417200,"Proguanil [1]
+P218 [2]
+QN254 [3]
+Pyrimethamine [4]
+PS-15 [5]
+MMV027634 [6]
+Cycloguanil [7]
+WR99210 [8]","[2] Posayapisit, Navaporn et al. “Transgenic pyrimethamine-resistant plasmodium falciparum reveals transmission-blocking potency of P218, a novel antifolate candidate drug.” International journal for parasitology vol. 51,8 (2021): 635-642. doi:10.1016/j.ijpara.2020.12.002 
+[3] Nzila, Alexis et al. “Preclinical evaluation of the antifolate QN254, 5-chloro- N'6'-(2,5-dimethoxy-benzyl)-quinazoline-2,4,6-triamine, as an antimalarial drug candidate.” Antimicrobial agents and chemotherapy vol. 54,6 (2010): 2603-10. doi:10.1128/AAC.01526-09
+[4] Basco, L K et al. “Point mutations in the dihydrofolate reductase-thymidylate synthase gene and pyrimethamine and cycloguanil resistance in Plasmodium falciparum.” Molecular and biochemical parasitology vol. 69,1 (1995): 135-8. doi:10.1016/0166-6851(94)00207-4
+[5] Canfield, C J et al. “PS-15: a potent, orally active antimalarial from a new class of folic acid antagonists.” The American journal of tropical medicine and hygiene vol. 49,1 (1993): 121-6. doi:10.4269/ajtmh.1993.49.121
+[6] Cowell, Annie N et al. “Mapping the malaria parasite druggable genome by using in vitro evolution and chemogenomics.” Science (New York, N.Y.) vol. 359,6372 (2018): 191-199. doi:10.1126/science.aan4472",Yes,Yes
+5,M1 aminopeptidase,AM1,PF3D7_1311800,"Bestatin [1]
+KBE009 [2]","González-Bacerio, Jorge et al. “Plasmodium falciparum M1-aminopeptidase: a promising target for the development of antimalarials.” Current drug targets vol. 15,12 (2014): 1144-65. doi:10.2174/1389450115666141024115641
+[1] Yang, Wei et al. “Mapping the Pathway and Dynamics of Bestatin Inhibition of the Plasmodium falciparum M1 Aminopeptidase PfA-M1.” ChemMedChem vol. 13,23 (2018): 2504-2513. doi:10.1002/cmdc.201800563
+[2] González-Bacerio, Jorge et al. “KBE009: An antimalarial bestatin-like inhibitor of the Plasmodium falciparum M1 aminopeptidase discovered in an Ugi multicomponent reaction-derived peptidomimetic library.” Bioorganic & medicinal chemistry vol. 25,17 (2017): 4628-4636. doi:10.1016/j.bmc.2017.06.047",Yes,Yes
+6,N-myristoyltransferase ,NMT,PF3D7_1412800,"IMP-1002 [1]
+Compound 34c [2]","de Azevedo Teotônio Cavalcanti, Misael et al. “Current trends to design antimalarial drugs targeting N-myristoyltransferase.” Future microbiology vol. 19,18 (2024): 1601-1618. doi:10.1080/17460913.2024.2412397
+[1] Schlott, Anja C et al. “Structure-Guided Identification of Resistance Breaking Antimalarial N‑Myristoyltransferase Inhibitors.” Cell chemical biology vol. 26,7 (2019): 991-1000.e7. doi:10.1016/j.chembiol.2019.03.015
+Schlott, Anja C et al. “N-Myristoylation as a Drug Target in Malaria: Exploring the Role of N-Myristoyltransferase Substrates in the Inhibitor Mode of Action.” ACS infectious diseases vol. 4,4 (2018): 449-457. doi:10.1021/acsinfecdis.7b00203
+[2] Rackham, Mark D et al. “Design and synthesis of high affinity inhibitors of Plasmodium falciparum and Plasmodium vivax N-myristoyltransferases directed by ligand efficiency dependent lipophilicity (LELP).” Journal of medicinal chemistry vol. 57,6 (2014): 2773-88. doi:10.1021/jm500066b",Yes,Yes
+7,cGMP-dependent protein kinase,PKG,PF3D7_1436600,"Trisubstituted pyrrol (Compound 1) [1]
+ML10 [2]
+MMV030084 [3]","Eck, Tyler et al. “Characterization of Competitive Inhibitors of Plasmodium falciparum cGMP-Dependent Protein Kinase.” Chembiochem : a European journal of chemical biology vol. 23,7 (2022): e202100704. doi:10.1002/cbic.202100704
+Diaz, Carmen A et al. “Characterization of Plasmodium falciparum cGMP-dependent protein kinase (PfPKG): antiparasitic activity of a PKG inhibitor.” Molecular and biochemical parasitology vol. 146,1 (2006): 78-88. doi:10.1016/j.molbiopara.2005.10.020
+Baker, David A et al. “Targeting the Malaria Parasite cGMP-Dependent Protein Kinase to Develop New Drugs.” Frontiers in microbiology vol. 11 602803. 17 Dec. 2020, doi:10.3389/fmicb.2020.602803
+[2] Cheuka, Peter Mubanga et al. “Emerging Drug Targets for Antimalarial Drug Discovery: Validation and Insights into Molecular Mechanisms of Function.” Journal of medicinal chemistry vol. 67,2 (2024): 838-863. doi:10.1021/acs.jmedchem.3c01828
+Baker, David A et al. “A potent series targeting the malarial cGMP-dependent protein kinase clears infection and blocks transmission.” Nature communications vol. 8,1 430. 5 Sep. 2017, doi:10.1038/s41467-017-00572-x
+[3] Vanaerschot, Manu et al. “Inhibition of Resistance-Refractory P. falciparum Kinase PKG Delivers Prophylactic, Blood Stage, and Transmission-Blocking Antiplasmodial Activity.” Cell chemical biology vol. 27,7 (2020): 806-816.e8. doi:10.1016/j.chembiol.2020.04.001",Yes,Yes
+8,Glucose-6-phosphate dehydrogenase 6-phosphogluconolactonase,GluPho,PF3D7_1453800,SBI-0797750,"Allen, Stacey M et al. “Plasmodium falciparum glucose-6-phosphate dehydrogenase 6-phosphogluconolactonase is a potential drug target.” The FEBS journal vol. 282,19 (2015): 3808-23. doi:10.1111/febs.13380
+Berneburg, Isabell et al. “An Optimized Dihydrodibenzothiazepine Lead Compound (SBI-0797750) as a Potent and Selective Inhibitor of Plasmodium falciparum and P. vivax Glucose 6-Phosphate Dehydrogenase 6-Phosphogluconolactonase.” Antimicrobial agents and chemotherapy vol. 66,4 (2022): e0210921. doi:10.1128/aac.02109-21
+Morales-Luna, Laura et al. “Fused Enzyme Glucose-6-Phosphate Dehydrogenase::6-Phosphogluconolactonase (G6PD::6PGL) as a Potential Drug Target in Giardia lamblia, Trichomonas vaginalis, and Plasmodium falciparum.” Microorganisms vol. 12,1 112. 5 Jan. 2024, doi:10.3390/microorganisms12010112",Yes,Yes
+9,Purine nucleoside phosphorylase,PNP,PF3D7_0513300,"MMV000848 [1]
+BCX4945 [2]
+Imm-H [3]
+Forodesine [4]
+Quinine [5]
+Mefloquine [6]","[1] Chung, Zara et al. “Identification and structural validation of purine nucleoside phosphorylase from Plasmodium falciparum as a target of MMV000848.” The Journal of biological chemistry vol. 300,1 (2024): 105586. doi:10.1016/j.jbc.2023.105586
+[2] Cassera, María B et al. “Plasmodium falciparum parasites are killed by a transition state analogue of purine nucleoside phosphorylase in a primate animal model.” PloS one vol. 6,11 (2011): e26916. doi:10.1371/journal.pone.0026916
+[3] Kicska, Gregory A et al. “Purine-less death in Plasmodium falciparum induced by immucillin-H, a transition state analogue of purine nucleoside phosphorylase.” The Journal of biological chemistry vol. 277,5 (2002): 3226-31. doi:10.1074/jbc.M105906200
+[4] Kicska, Gregory A et al. “Transition state analogue inhibitors of purine nucleoside phosphorylase from Plasmodium falciparum.” The Journal of biological chemistry vol. 277,5 (2002): 3219-25. doi:10.1074/jbc.M105905200
+[5,6] Dziekan, Jerzy M et al. “Identifying purine nucleoside phosphorylase as the target of quinine using cellular thermal shift assay.” Science translational medicine vol. 11,473 (2019): eaau3174. doi:10.1126/scitranslmed.aau3174",Yes,Yes
+10,Plasmepsin V,PMV,PF3D7_1323500,"WEHI-916 [1]
+WEHI-842 [2]
+Aminohydantoins [3]","[1] Sleebs, Brad E et al. “Inhibition of Plasmepsin V activity demonstrates its essential role in protein export, PfEMP1 display, and survival of malaria parasites.” PLoS biology vol. 12,7 e1001897. 1 Jul. 2014, doi:10.1371/journal.pbio.1001897
+[2] Hodder, Anthony N et al. “Structural basis for plasmepsin V inhibition that blocks export of malaria proteins to human erythrocytes.” Nature structural & molecular biology vol. 22,8 (2015): 590-6. doi:10.1038/nsmb.3061
+[3] Polino, Alexander J et al. “Assessment of Biological Role and Insight into Druggability of the Plasmodium falciparum Protease Plasmepsin V.” ACS infectious diseases vol. 6,4 (2020): 738-746. doi:10.1021/acsinfecdis.9b00460
+Jennison, Charlie et al. “Inhibition of Plasmepsin V Activity Blocks Plasmodium falciparum Gametocytogenesis and Transmission to Mosquitoes.” Cell reports vol. 29,12 (2019): 3796-3806.e4. doi:10.1016/j.celrep.2019.11.073
+Gambini, Luca et al. “Picomolar Inhibition of Plasmepsin V, an Essential Malaria Protease, Achieved Exploiting the Prime Region.” PloS one vol. 10,11 e0142509. 13 Nov. 2015, doi:10.1371/journal.pone.0142509",Yes,Yes
+11,Bifunctional farnesyl/geranylgeranyl diphosphate synthase,FPPS/GGPPS,PF3D7_1128400,"MMV019313 [1]
+Risedronate [2]
+Zoledronate [3]
+AIM-1290 [4]","[1] Gisselberg, Jolyn E et al. “Specific Inhibition of the Bifunctional Farnesyl/Geranylgeranyl Diphosphate Synthase in Malaria Parasites via a New Small-Molecule Binding Site.” Cell chemical biology vol. 25,2 (2018): 185-193.e5. doi:10.1016/j.chembiol.2017.11.010
+[2] Jordão, Fabiana Morandi et al. “In vitro and in vivo antiplasmodial activities of risedronate and its interference with protein prenylation in Plasmodium falciparum.” Antimicrobial agents and chemotherapy vol. 55,5 (2011): 2026-31. doi:10.1128/AAC.01820-10
+[2,3] No, Joo Hwan et al. “Lipophilic analogs of zoledronate and risedronate inhibit Plasmodium geranylgeranyl diphosphate synthase (GGPPS) and exhibit potent antimalarial activity.” Proceedings of the National Academy of Sciences of the United States of America vol. 109,11 (2012): 4058-63. doi:10.1073/pnas.1118215109
+[4] Kabeche, Stephanie et al. “Nonbisphosphonate inhibitors of Plasmodium falciparum FPPS/GGPPS.” Bioorganic & medicinal chemistry letters vol. 41 (2021): 127978. doi:10.1016/j.bmcl.2021.127978
+Singh, Agam Prasad et al. “Lipophilic bisphosphonates are potent inhibitors of Plasmodium liver-stage growth.” Antimicrobial agents and chemotherapy vol. 54,7 (2010): 2987-93. doi:10.1128/AAC.00198-10",Yes,Yes
+12,Calcium-dependent protein kinase 1,CDPK1,PF3D7_0217500,"Imidazopyridazines [1] 
+2,3,9-trisubstituted purines [2]
+Indolizines [3]","Moolman, Chantalle et al. “An Update on Development of Small-Molecule Plasmodial Kinase Inhibitors.” Molecules (Basel, Switzerland) vol. 25,21 5182. 7 Nov. 2020, doi:10.3390/molecules25215182
+Sharma, Manish et al. “CDPKs: The critical decoders of calcium signal at various stages of malaria parasite development.” Computational and structural biotechnology journal vol. 19 5092-5107. 6 Sep. 2021, doi:10.1016/j.csbj.2021.08.054
+Kadian, Kavita, et al. ""Calcium dependent protein kinases (CDPKs): key to malaria eradication."" Current Topics in Medicinal Chemistry 17.19 (2017): 2215-2220.
+Ansell, Keith H et al. “Biochemical and antiparasitic properties of inhibitors of the Plasmodium falciparum calcium-dependent protein kinase PfCDPK1.” Antimicrobial agents and chemotherapy vol. 58,10 (2014): 6032-43. doi:10.1128/AAC.02959-14
+[1] Chapman, Timothy M et al. “Substituted imidazopyridazines are potent and selective inhibitors of Plasmodium falciparum calcium-dependent protein kinase 1 (PfCDPK1).” Bioorganic & medicinal chemistry letters vol. 23,10 (2013): 3064-9. doi:10.1016/j.bmcl.2013.03.017
+[1] Lemercier, Guillaume et al. “Identification and characterization of novel small molecules as potent inhibitors of the plasmodial calcium-dependent protein kinase 1.” Biochemistry vol. 48,27 (2009): 6379-89. doi:10.1021/bi9005122
+[1] Large, Jonathan M et al. “Imidazopyridazines as potent inhibitors of Plasmodium falciparum calcium-dependent protein kinase 1 (PfCDPK1): Preparation and evaluation of pyrazole linked analogues.” Bioorganic & medicinal chemistry letters vol. 23,21 (2013): 6019-24. doi:10.1016/j.bmcl.2013.08.010
+[1] Chapman, Timothy M et al. “Optimization of an imidazopyridazine series of inhibitors of Plasmodium falciparum calcium-dependent protein kinase 1 (PfCDPK1).” Journal of medicinal chemistry vol. 57,8 (2014): 3570-87. doi:10.1021/jm500342d
+[2] Kato, Nobutaka et al. “Gene expression signatures and small-molecule compounds link a protein kinase to Plasmodium falciparum motility.” Nature chemical biology vol. 4,6 (2008): 347-56. doi:10.1038/nchembio.87
+[3] Lemercier, Guillaume et al. “Identification and characterization of novel small molecules as potent inhibitors of the plasmodial calcium-dependent protein kinase 1.” Biochemistry vol. 48,27 (2009): 6379-89. doi:10.1021/bi9005122",Yes,Yes
+13,Falcipain-3,FP3,PF3D7_1115400,"SZ9 [1]
+Compound III [2]","[1] Rahman, Abdur et al. “Sulfonamide based pyrimidine derivatives combating Plasmodium parasite by inhibiting falcipains-2 and falcipains-3 as antimalarial agents.” RSC advances vol. 14,34 24725-24740. 7 Aug. 2024, doi:10.1039/d4ra04370g
+[2] Rathi, Brijesh et al. “Functionalized hydroxyethylamine based peptide nanostructures as potential inhibitors of falcipain-3, an essential proteases of Plasmodium falciparum.” Bioorganic & medicinal chemistry vol. 21,17 (2013): 5503-9. doi:10.1016/j.bmc.2013.05.052
+Sijwali, Puran S et al. “Gene disruptions demonstrate independent roles for the four falcipain cysteine proteases of Plasmodium falciparum.” Molecular and biochemical parasitology vol. 150,1 (2006): 96-106. doi:10.1016/j.molbiopara.2006.06.013
+Kerr, Iain D et al. “Structures of falcipain-2 and falcipain-3 bound to small molecule inhibitors: implications for substrate specificity.” Journal of medicinal chemistry vol. 52,3 (2009): 852-7. doi:10.1021/jm8013663",Yes,Yes
+14,Proteasome subunit beta type-5,-,PF3D7_1011400,"Carmaphycin B [1]*
+Bortezomib [2]*
+WLL-vs [3]*","Li, Hao et al. “Assessing subunit dependency of the Plasmodium proteasome using small molecule inhibitors and active site probes.” ACS chemical biology vol. 9,8 (2014): 1869-76. doi:10.1021/cb5001263
+[1] LaMonte, Gregory M et al. “Development of a Potent Inhibitor of the Plasmodium Proteasome with Reduced Mammalian Toxicity.” Journal of medicinal chemistry vol. 60,15 (2017): 6721-6732. doi:10.1021/acs.jmedchem.7b00671
+[2] Reynolds, J.M., El Bissati, K., Brandenburg, J., Gunzl, A., Mamoun, C.B., 2007. Antimalarial activity of the anticancer and proteasome inhibitor bortezomib and its analog ZL3B. BMC Clin. Pharmacol. 7, 13
+[3] Li, Hao et al. “Structure- and function-based design of Plasmodium-selective proteasome inhibitors.” Nature vol. 530,7589 (2016): 233-6. doi:10.1038/nature16936",Yes,Yes
+15,beta-ketoacyl-ACP synthase III,FabH / KASIII,PF3D7_0211400,"HR19 [1]
+Thiolactomycin derivatives [2]","Waller, R F et al. “Nuclear-encoded proteins target to the plastid in Toxoplasma gondii and Plasmodium falciparum.” Proceedings of the National Academy of Sciences of the United States of America vol. 95,21 (1998): 12352-7. doi:10.1073/pnas.95.21.12352
+[2] Prigge, Sean T et al. “The initiating steps of a type II fatty acid synthase in Plasmodium falciparum are catalyzed by pfACP, pfMCAT, and pfKASIII.” Biochemistry vol. 42,4 (2003): 1160-9. doi:10.1021/bi026847k
+Lee, Patricia J et al. “Targeting the fatty acid biosynthesis enzyme, beta-ketoacyl-acyl carrier protein synthase III (PfKASIII), in the identification of novel antimalarial agents.” Journal of medicinal chemistry vol. 52,4 (2009): 952-63. doi:10.1021/jm8008103",Yes,Yes
+16,Deubiquitinase ubiquitin C-terminal hydrolase L3,UCHL3,PF3D7_1460400,"UCH0081 [1]
+Peptides 60296 and 60297 [2]
+MMV676603 [3]
+MMV688704 [4]","[1] Imhoff, Ryan D et al. “Identification of covalent fragment inhibitors for Plasmodium falciparum UCHL3 with anti-malarial efficacy.” Bioorganic & medicinal chemistry letters vol. 94 (2023): 129458. doi:10.1016/j.bmcl.2023.129458
+[2] King, Harry R et al. “Targeting the Plasmodium falciparum UCHL3 ubiquitin hydrolase using chemically constrained peptides.” Proceedings of the National Academy of Sciences of the United States of America vol. 121,21 (2024): e2322923121. doi:10.1073/pnas.2322923121
+[3,4] Bharti, Hina, et al. ""Repurposing the Pathogen Box compounds for identification of potent anti-malarials against blood stages of Plasmodium falciparum with PfUCHL3 inhibitory activity."" Scientific reports 12.1 (2022): 918.",Yes,Yes
+17,Heat shock protein 90,HSP90,PF3D7_0708400,"BX-2819, XL888 [1]
+Geldanamycin, Harmine [2]","[1] Mansfield, Christopher R et al. “Selective targeting of Plasmodium falciparum Hsp90 disrupts the 26S proteasome.” Cell chemical biology vol. 31,4 (2024): 729-742.e13. doi:10.1016/j.chembiol.2024.02.008
+[2] Stofberg, Melissa Louise et al. “Inhibitors of the Plasmodium falciparum Hsp90 towards Selective Antimalarial Drug Design: The Past, Present and Future.” Cells vol. 10,11 2849. 22 Oct. 2021, doi:10.3390/cells10112849
+Murillo-Solano, Claribel, et al. ""Identification and characterization of the antiplasmodial activity of Hsp90 inhibitors."" Malaria journal 16 (2017): 1-14.
+Wang, Tai et al. “Inhibition of Plasmodium falciparum Hsp90 Contributes to the Antimalarial Activities of Aminoalcohol-carbazoles.” Journal of medicinal chemistry vol. 59,13 (2016): 6344-52. doi:10.1021/acs.jmedchem.6b00591",Yes,Yes
+18,Glutathione Reductase,GR,PF3D7_1419800,Methylene blue,"Färber, P M et al. “Recombinant Plasmodium falciparum glutathione reductase is inhibited by the antimalarial dye methylene blue.” FEBS letters vol. 422,3 (1998): 311-4. doi:10.1016/s0014-5793(98)00031-3
+Sarma, G. N., et al. ""Glutathione reductase of the malarial parasite Plasmodium falciparum: crystal structure and inhibitor development."" Journal of molecular biology 328.4 (2003): 893-907.
+Tyagi, Chetna, et al. ""Targeting the intersubunit cavity of Plasmodium falciparum glutathione reductase by a novel natural inhibitor: Computational and experimental evidence."" The International Journal of Biochemistry & Cell Biology 61 (2015): 72-80.",Yes,Yes
+19,Falcipain-2A,F2A,PF3D7_1115700,"Falstatin [1]
+Gallinamide A [2]
+E64 [3]
+Suramin [4]
+Triazole-quinoline derivatives [5]
+Symplostatin 4 (FP2/3) [6]
+SZ14 [7]","Shenai, B R et al. “Characterization of native and recombinant falcipain-2, a principal trophozoite cysteine protease and essential hemoglobinase of Plasmodium falciparum.” The Journal of biological chemistry vol. 275,37 (2000): 29000-10. doi:10.1074/jbc.M004459200
+[1] Pandey, Kailash C et al. “Falstatin, a cysteine protease inhibitor of Plasmodium falciparum, facilitates erythrocyte invasion.” PLoS pathogens vol. 2,11 (2006): e117. doi:10.1371/journal.ppat.0020117
+[3] Salawu, Emmanuel Oluwatobi. “In Silico Study Reveals How E64 Approaches, Binds to, and Inhibits Falcipain-2 of Plasmodium falciparum that Causes Malaria in Humans.” Scientific reports vol. 8,1 16380. 6 Nov. 2018, doi:10.1038/s41598-018-34622-1
+[4] Marques, Adriana Fonseca et al. “Falcipain-2 inhibition by suramin and suramin analogues.” Bioorganic & medicinal chemistry vol. 21,13 (2013): 3667-73. doi:10.1016/j.bmc.2013.04.047
+[5] Singh, Anju et al. “Quinoline-triazole hybrids inhibit falcipain-2 and arrest the development of Plasmodium falciparum at the trophozoite stage.” RSC advances vol. 9,67 39410-39421. 29 Nov. 2019, doi:10.1039/c9ra06571g
+[6] Stolze, Sara Christina et al. “The antimalarial natural product symplostatin 4 is a nanomolar inhibitor of the food vacuole falcipains.” Chemistry & biology vol. 19,12 (2012): 1546-55. doi:10.1016/j.chembiol.2012.09.020
+[7] Rahman, Abdur et al. “Sulfonamide based pyrimidine derivatives combating Plasmodium parasite by inhibiting falcipains-2 and falcipains-3 as antimalarial agents.” RSC advances vol. 14,34 24725-24740. 7 Aug. 2024, doi:10.1039/d4ra04370g
+Stoye, Alexander et al. “Falcipain Inhibitors Based on the Natural Product Gallinamide A Are Potent in Vitro and in Vivo Antimalarials.” Journal of medicinal chemistry vol. 62,11 (2019): 5562-5578. doi:10.1021/acs.jmedchem.9b00504
+Ghosh, Subham et al. “Design, molecular docking, drug-likeness, and molecular dynamics studies of 1,2,4-trioxane derivatives as novel Plasmodium falciparum falcipain-2 (FP-2) inhibitors.” Biotechnologia vol. 102,3 257-275. 30 Sep. 2021, doi:10.5114/bta.2021.108722
+Machin, Jonathan M et al. “The complex of Plasmodium falciparum falcipain-2 protease with an (E)-chalcone-based inhibitor highlights a novel, small, molecule-binding site.” Malaria journal vol. 18,1 388. 2 Dec. 2019, doi:10.1186/s12936-019-3043-0",Yes,Yes
+20,Histone deacetylase 1,HDAC1,PF3D7_0925700,"JX21108 [1]
+Quisinostat [2]
+JX35 [3]
+Compound 1u [4]
+Panabinostat [5]
+FNDR-20123 [6]
+Compound 2h [7]","[1,2] Huang, Zhenghui et al. “A novel multistage antiplasmodial inhibitor targeting Plasmodium falciparum histone deacetylase 1.” Cell discovery vol. 6,1 93. 11 Dec. 2020, doi:10.1038/s41421-020-00215-4
+[3] Wang, Manjiong et al. “Drug Repurposing of Quisinostat to Discover Novel Plasmodium falciparum HDAC1 Inhibitors with Enhanced Triple-Stage Antimalarial Activity and Improved Safety.” Journal of medicinal chemistry vol. 65,5 (2022): 4156-4181. doi:10.1021/acs.jmedchem.1c01993
+[4] Diedrich, Daniela et al. “One-pot, multi-component synthesis and structure-activity relationships of peptoid-based histone deacetylase (HDAC) inhibitors targeting malaria parasites.” European journal of medicinal chemistry vol. 158 (2018): 801-813. doi:10.1016/j.ejmech.2018.09.018
+[5] Engel, Jessica A et al. “Profiling the anti-protozoal activity of anti-cancer HDAC inhibitors against Plasmodium and Trypanosoma parasites.” International journal for parasitology. Drugs and drug resistance vol. 5,3 117-26. 20 Jun. 2015, doi:10.1016/j.ijpddr.2015.05.004
+[6] Potluri, Vijay et al. “Discovery of FNDR-20123, a histone deacetylase inhibitor for the treatment of Plasmodium falciparum malaria.” Malaria journal vol. 19,1 365. 12 Oct. 2020, doi:10.1186/s12936-020-03421-3
+[7] Mackwitz, Marcel K W et al. “Structure-Activity and Structure-Toxicity Relationships of Peptoid-Based Histone Deacetylase Inhibitors with Dual-Stage Antiplasmodial Activity.” ChemMedChem vol. 14,9 (2019): 912-926. doi:10.1002/cmdc.201800808",Yes,Yes
+21,M17 leucyl aminopeptidase,M17LAP,PF3D7_1446200,Compound 3 [1],"[1] Edgar, Rebecca C S et al. “Genetic and chemical validation of Plasmodium falciparum aminopeptidase PfA-M17 as a drug target in the hemoglobin digestion pathway.” eLife vol. 11 e80813. 13 Sep. 2022, doi:10.7554/eLife.80813
+Dabburu, Govinda Rao et al. “Designing dual inhibitors against potential drug targets of Plasmodium falciparum -M17 Leucyl Aminopeptidase and Plasmepsins.” Journal of biomolecular structure & dynamics vol. 41,16 (2023): 8026-8041. doi:10.1080/07391102.2022.2129452
+Skinner-Adams, Tina S et al. “Identification of phosphinate dipeptide analog inhibitors directed against the Plasmodium falciparum M17 leucine aminopeptidase as lead antimalarial compounds.” Journal of medicinal chemistry vol. 50,24 (2007): 6024-31. doi:10.1021/jm070733v",Yes,Yes
+22,Hexose transporter,HT1,PF3D7_0204700,"TCMDC-125163 [1]
+C3361 [2]
+Lopinavir [3]
+Compound 3361 [4]","Heitmeier, Monique R et al. “Identification of druggable small molecule antagonists of the Plasmodium falciparum hexose transporter PfHT and assessment of ligand access to the glucose permeation pathway via FLAG-mediated protein engineering.” PloS one vol. 14,5 e0216457. 9 May. 2019, doi:10.1371/journal.pone.0216457
+[1] Ortiz, Diana et al. “Identification of Selective Inhibitors of the Plasmodium falciparum Hexose Transporter PfHT by Screening Focused Libraries of Anti-Malarial Compounds.” PloS one vol. 10,4 e0123598. 20 Apr. 2015, doi:10.1371/journal.pone.0123598
+[2] Jiang, Xin et al. “Structural Basis for Blocking Sugar Uptake into the Malaria Parasite Plasmodium falciparum.” Cell vol. 183,1 (2020): 258-268.e12. doi:10.1016/j.cell.2020.08.015
+[3] Kraft, Thomas E et al. “The Glucose Transporter PfHT1 Is an Antimalarial Target of the HIV Protease Inhibitor Lopinavir.” Antimicrobial agents and chemotherapy vol. 59,10 (2015): 6203-9. doi:10.1128/AAC.00899-15
+[4] Slavic, Ksenija et al. “Use of a selective inhibitor to define the chemotherapeutic potential of the plasmodial hexose transporter in different stages of the parasite's life cycle.” Antimicrobial agents and chemotherapy vol. 55,6 (2011): 2824-30. doi:10.1128/AAC.01739-10
+Huang, Jian et al. “Orthosteric-allosteric dual inhibitors of PfHT1 as selective antimalarial agents.” Proceedings of the National Academy of Sciences of the United States of America vol. 118,3 (2021): e2017749118. doi:10.1073/pnas.2017749118
+Joet, Thierry et al. “Validation of the hexose transporter of Plasmodium falciparum as a novel drug target.” Proceedings of the National Academy of Sciences of the United States of America vol. 100,13 (2003): 7476-9. doi:10.1073/pnas.1330865100",Yes,Yes
+23,non-SERCA-type Ca2+ -transporting P-ATPase,ATP4,PF3D7_1211900,"SJ733 [1]
+Ciparmagin (KAE609) [2]
+GNF-Pf4492 [3]
+PA21A092 [4]","[1] Dechering, Koen J et al. “Modelling mosquito infection at natural parasite densities identifies drugs targeting EF2, PI4K or ATP4 as key candidates for interrupting malaria transmission.” Scientific reports vol. 7,1 17680. 15 Dec. 2017, doi:10.1038/s41598-017-16671-0
+[2] van Pelt-Koops, J C et al. “The spiroindolone drug candidate NITD609 potently inhibits gametocytogenesis and blocks Plasmodium falciparum transmission to anopheles mosquito vector.” Antimicrobial agents and chemotherapy vol. 56,7 (2012): 3544-8. doi:10.1128/AAC.06377-11
+[3] Flannery, Erika L et al. “Mutations in the P-type cation-transporter ATPase 4, PfATP4, mediate resistance to both aminopyrazole and spiroindolone antimalarials.” ACS chemical biology vol. 10,2 (2015): 413-20. doi:10.1021/cb500616x
+Spillman, Natalie J et al. “Na(+) regulation in the malaria parasite Plasmodium falciparum involves the cation ATPase PfATP4 and is a target of the spiroindolone antimalarials.” Cell host & microbe vol. 13,2 (2013): 227-37. doi:10.1016/j.chom.2012.12.006",Yes,Yes
+24,FK506-binding protein,FKBP35,PF3D7_1247400,"FK506
+Rapamycin","Thommen, Basil T et al. “Genetic validation of PfFKBP35 as an antimalarial drug target.” eLife vol. 12 RP86975. 7 Nov. 2023, doi:10.7554/eLife.86975
+Monaghan, Paul et al. “The antimalarial action of FK506 and rapamycin: evidence for a direct effect on FK506-binding protein PfFKBP35.” Parasitology vol. 144,7 (2017): 869-876. doi:10.1017/S0031182017000245
+Bianchin, Alessandra et al. “Two crystal structures of the FK506-binding domain of Plasmodium falciparum FKBP35 in complex with rapamycin at high resolution.” Acta crystallographica. Section D, Biological crystallography vol. 71,Pt 6 (2015): 1319-27. doi:10.1107/S1399004715006239",Yes,Yes
+25,Aspartate transcarbamoylase,FKBP35,PF3D7_1344800,"Torin 2 [1]
+N-(Phosphonacetyl)-L-Aspartate (PALA) [2]
+PALA analogs [2]","[1] Bosch, Soraya S et al. “Molecular Target Validation of Aspartate Transcarbamoylase from Plasmodium falciparum by Torin 2.” ACS infectious diseases vol. 6,5 (2020): 986-999. doi:10.1021/acsinfecdis.9b00411
+[2] Wang, Chao et al. “Novel Highlight in Malarial Drug Discovery: Aspartate Transcarbamoylase.” Frontiers in cellular and infection microbiology vol. 12 841833. 4 Mar. 2022, doi:10.3389/fcimb.2022.841833
+Cheuka, Peter Mubanga et al. “Emerging Drug Targets for Antimalarial Drug Discovery: Validation and Insights into Molecular Mechanisms of Function.” Journal of medicinal chemistry vol. 67,2 (2024): 838-863. doi:10.1021/acs.jmedchem.3c01828",Yes,Yes
+26,S-Adenosyl-Lhomocysteine hydrolase,SAHH,PF3D7_0520900,Curcumin,"Ando, Takayuki et al. “Synthesis of 2-modified aristeromycins and their analogs as potent inhibitors against Plasmodium falciparum S-adenosyl-L-homocysteine hydrolase.” Bioorganic & medicinal chemistry vol. 16,7 (2008): 3809-15. doi:10.1016/j.bmc.2008.01.046
+Chandra, Girish et al. “S-adenosyl-L-homocysteine Hydrolase: Its Inhibitory Activity Against Plasmodium falciparum and Development of Malaria Drugs.” Mini reviews in medicinal chemistry vol. 21,7 (2021): 833-846. doi:10.2174/1389557521666201218155321
+Singh, Dev Bukhsh et al. “Docking and in silico ADMET studies of noraristeromycin, curcumin and its derivatives with Plasmodium falciparum SAH hydrolase: a molecular drug target against malaria.” Interdisciplinary sciences, computational life sciences vol. 5,1 (2013): 1-12. doi:10.1007/s12539-013-0147-z",Yes,Yes
+27,Calcium-transporting ATPase,ATP6,PF3D7_0106300,"Thapsigargin [1]
+Artemisinin [2]
+Thaperoxides [3]","[1,2] del Pilar Crespo, Maria et al. “Artemisinin and a series of novel endoperoxide antimalarials exert early effects on digestive vacuole morphology.” Antimicrobial agents and chemotherapy vol. 52,1 (2008): 98-109. doi:10.1128/AAC.00609-07
+[2] Moore, Catherine M et al. “Selective Inhibition of Plasmodium falciparum ATPase 6 by Artemisinins and Identification of New Classes of Inhibitors after Expression in Yeast.” Antimicrobial agents and chemotherapy vol. 66,5 (2022): e0207921. doi:10.1128/aac.02079-21
+[2] Eckstein-Ludwig, U et al. “Artemisinins target the SERCA of Plasmodium falciparum.” Nature vol. 424,6951 (2003): 957-61. doi:10.1038/nature01813
+[2,3] Pulcini, Serena et al. “Expression in yeast links field polymorphisms in PfATP6 to in vitro artemisinin resistance and identifies new inhibitor classes.” The Journal of infectious diseases vol. 208,3 (2013): 468-78. doi:10.1093/infdis/jit171",Yes,Yes
+28,Dipeptidyl aminopeptidase 1,DPAP1,PF3D7_1116700,MMV029272,"Cowell, Annie N et al. “Mapping the malaria parasite druggable genome by using in vitro evolution and chemogenomics.” Science (New York, N.Y.) vol. 359,6372 (2018): 191-199. doi:10.1126/science.aan4473
+Deu, Edgar et al. “Functional studies of Plasmodium falciparum dipeptidyl aminopeptidase I using small molecule inhibitors and active site probes.” Chemistry & biology vol. 17,8 (2010): 808-19. doi:10.1016/j.chembiol.2010.06.007
+Sanchez, Mateo I et al. “Identification of Plasmodium dipeptidyl aminopeptidase allosteric inhibitors by high throughput screening.” PloS one vol. 14,12 e0226270. 18 Dec. 2019, doi:10.1371/journal.pone.0226270",Yes,Yes
+29,Cyclin-dependent-like kinase 3,CLK3,PF3D7_1114700, TCMDC-135051,"Alam, Mahmood M et al. “Validation of the protein kinase PfCLK3 as a multistage cross-species malarial drug target.” Science (New York, N.Y.) vol. 365,6456 (2019): eaau1682. doi:10.1126/science.aau1682
+Mahindra, Amit et al. “Development of Potent PfCLK3 Inhibitors Based on TCMDC-135051 as a New Class of Antimalarials.” Journal of medicinal chemistry vol. 63,17 (2020): 9300-9315. doi:10.1021/acs.jmedchem.0c00451
+Mahmud, F et al. “Plasmodium falciparum protein kinase as a potential therapeutic target for antimalarial drugs development.” Tropical biomedicine vol. 37,3 (2020): 822-841. doi:10.47665/tb.37.3.822",Yes,Yes
+30,Serine hydroxymethyltransferase,cSHMT,PF3D7_1235600,Compound 4 [1],"[1] Cheuka, Peter Mubanga et al. “Emerging Drug Targets for Antimalarial Drug Discovery: Validation and Insights into Molecular Mechanisms of Function.” Journal of medicinal chemistry vol. 67,2 (2024): 838-863. doi:10.1021/acs.jmedchem.3c01828
+Schwertz, Geoffrey et al. “Antimalarial Inhibitors Targeting Serine Hydroxymethyltransferase (SHMT) with in Vivo Efficacy and Analysis of their Binding Mode Based on X-ray Cocrystal Structures.” Journal of medicinal chemistry vol. 60,12 (2017): 4840-4860. doi:10.1021/acs.jmedchem.7b00008
+Pornthanakasem, Wichai et al. “Plasmodium serine hydroxymethyltransferase: indispensability and display of distinct localization.” Malaria journal vol. 11 387. 22 Nov. 2012, doi:10.1186/1475-2875-11-387",Yes,Yes
+31,Deoxyuridine 5'-triphosphate nucleotidohydrolase,dUTPase,PF3D7_1127100,"Compound 5 [1]
+Compound 11 and 12 [2]","[1] Cheuka, Peter Mubanga et al. “Emerging Drug Targets for Antimalarial Drug Discovery: Validation and Insights into Molecular Mechanisms of Function.” Journal of medicinal chemistry vol. 67,2 (2024): 838-863. doi:10.1021/acs.jmedchem.3c01828
+[2] Hampton, Shahienaz E et al. “Investigation of acyclic uridine amide and 5'-amido nucleoside analogues as potential inhibitors of the Plasmodium falciparum dUTPase.” Bioorganic & medicinal chemistry vol. 21,18 (2013): 5876-85. doi:10.1016/j.bmc.2013.07.004
+Pérez-Moreno, Guiomar et al. “Validation of Plasmodium falciparum dUTPase as the target of 5'-tritylated deoxyuridine analogues with anti-malarial activity.” Malaria journal vol. 18,1 392. 3 Dec. 2019, doi:10.1186/s12936-019-3025-2
+Nguyen, Corinne et al. “Deoxyuridine triphosphate nucleotidohydrolase as a potential antiparasitic drug target.” Journal of medicinal chemistry vol. 48,19 (2005): 5942-54. doi:10.1021/jm050111e
+Nguyen, Corinne et al. “Acyclic nucleoside analogues as inhibitors of Plasmodium falciparum dUTPase.” Journal of medicinal chemistry vol. 49,14 (2006): 4183-95. doi:10.1021/jm060126s",Yes,Yes
+32,3-oxoacyl-[ACP] reductase,FabG,PF3D7_0922900,"Hexachlorophene [1]
+Bithionol [2]","[1,2] Wickramasinghe, Sasala R et al. “Kinetic, inhibition and structural studies on 3-oxoacyl-ACP reductase from Plasmodium falciparum, a key enzyme in fatty acid biosynthesis.” The Biochemical journal vol. 393,Pt 2 (2006): 447-57. doi:10.1042/BJ20050832
+Tasdemir, Deniz, et al. ""Inhibition of Plasmodium f alciparum fatty acid biosynthesis: evaluation of FabG, FabZ, and FabI as drug targets for flavonoids."" Journal of medicinal chemistry 49.11 (2006): 3345-3353.
+Goodman, C D, and G I McFadden. “Fatty acid biosynthesis as a drug target in apicomplexan parasites.” Current drug targets vol. 8,1 (2007): 15-30. doi:10.2174/138945007779315579",Yes,Yes
+33,Isoleucine--tRNA ligase,cyto-IRS,PF3D7_1332900,"Thiaisoleucine [1]
+Thienopyrimidines [2]
+TCMDC-131575 [3]","[1] Istvan, Eva S et al. “Validation of isoleucine utilization targets in Plasmodium falciparum.” Proceedings of the National Academy of Sciences of the United States of America vol. 108,4 (2011): 1627-32. doi:10.1073/pnas.1011560108
+[2] Istvan, Eva S et al. “Cytoplasmic isoleucyl tRNA synthetase as an attractive multistage antimalarial drug target.” Science translational medicine vol. 15,686 (2023): eadc9249. doi:10.1126/scitranslmed.adc9249
+[3] Gamo, Francisco-Javier et al. “Thousands of chemical starting points for antimalarial lead identification.” Nature vol. 465,7296 (2010): 305-10. doi:10.1038/nature09107",Yes,Yes
+34,ATP-dependent protease subunit ClpQ,ClpQ / HsIV,PF3D7_1230400,ICGEB-L3 [1],"[1] Jain, Shaifali, et al. ""Small-molecule inhibitors targeting prokaryotic ClpQ protease in Plasmodium display anti-malarial efficacies against blood and liver stages."" bioRxiv (2022): 2022-05.
+Rathore S, Jain S, Sinha D, Gupta M, Asad M, Srivastava A, Narayanan MS, Ramasamy G, Chauhan VS, Gupta D, Mohmmed A. 2011. Disruption of a mitochondrial protease machinery in Plasmodium falciparum is an intrinsic signal for parasite cell death. Cell Death Dis 2:e231
+Jain S, Rathore S, Asad M, Hossain ME, Sinha D, Datta G, Mohmmed A. 2013. The prokaryotic ClpQ protease plays a key role in growth and development of mitochondria in Plasmodium falciparum. Cell Microbiol 15:1660–73",Yes,Yes
+35,Lactate dehydrogenase,LDH,PF3D7_1324900,"Compound 85D [1]
+Compound 7 [2]
+OXD1 [3]
+IOA1 [4]
+TDA1 [5]","[1] Joshi, Nishant et al. “Highly potent anti-malarial activity of benzopyrano(4,3-b)benzopyran derivatives and in silico interaction analysis with putative target Plasmodium falciparum lactate dehydrogenase.” Journal of biomolecular structure & dynamics vol. 40,11 (2022): 5159-5174. doi:10.1080/07391102.2020.1868336
+[2] Choi, Seoung-ryoung et al. “Design, synthesis, and biological evaluation of Plasmodium falciparum lactate dehydrogenase inhibitors.” Journal of medicinal chemistry vol. 50,16 (2007): 3841-50. doi:10.1021/jm070336k
+[3,4,5] Cameron, Angus et al. “Identification and activity of a series of azole-based compounds with lactate dehydrogenase-directed anti-malarial activity.” The Journal of biological chemistry vol. 279,30 (2004): 31429-39. doi:10.1074/jbc.M402433200
+Choi, Seoung-ryoung et al. “Generation of oxamic acid libraries: antimalarials and inhibitors of Plasmodium falciparum lactate dehydrogenase.” Journal of combinatorial chemistry vol. 9,2 (2007): 292-300. doi:10.1021/cc060110n",Yes,Yes
+36,Glutathione S-transferase,GST,PF3D7_1419300,"Chloroquine [1]
+EA, FEA, CEA [2]  [also has other targets]","[1] Harwaldt, Petra et al. “Glutathione S-transferase of the malarial parasite Plasmodium falciparum: characterization of a potential drug target.” Biological chemistry vol. 383,5 (2002): 821-30. doi:10.1515/BC.2002.086
+[2] Sturm, Nicole et al. “Compounds structurally related to ellagic acid show improved antiplasmodial activity.” Antimicrobial agents and chemotherapy vol. 53,2 (2009): 622-30. doi:10.1128/AAC.00544-08
+Srivastava, P et al. “Glutathione-S-transferase activity in malarial parasites.” Tropical medicine & international health : TM & IH vol. 4,4 (1999): 251-4. doi:10.1046/j.1365-3156.1999.00387.x",Yes,Yes
+37,MO15-related protein kinase,MRK,PF3D7_1014400,Substituted thiophene sulfonamides [1],"Bhattacharjee, Apurba K et al. “A three-dimensional in silico pharmacophore model for inhibition of Plasmodium falciparum cyclin-dependent kinases and discovery of different classes of novel Pfmrk specific inhibitors.” Journal of medicinal chemistry vol. 47,22 (2004): 5418-26. doi:10.1021/jm040108f
+[1] Caridha, Diana et al. “Activity of substituted thiophene sulfonamides against malarial and mammalian cyclin dependent protein kinases.” Bioorganic & medicinal chemistry letters vol. 20,13 (2010): 3863-7. doi:10.1016/j.bmcl.2010.05.039
+Woodard, Cassandra L et al. “Evaluation of broad spectrum protein kinase inhibitors to probe the architecture of the malarial cyclin dependent protein kinase Pfmrk.” Bioorganic & medicinal chemistry letters vol. 17,17 (2007): 4961-6. doi:10.1016/j.bmcl.2007.06.032
+Woodard, Cassandra L et al. “Oxindole-based compounds are selective inhibitors of Plasmodium falciparum cyclin dependent protein kinases.” Journal of medicinal chemistry vol. 46,18 (2003): 3877-82. doi:10.1021/jm0300983",Yes,Yes
+38,Orotidine 5'-phosphate decarboxylase,OMPDC / ODCase,PF3D7_1023200,"C6-Uridine derivatives [1]
+CMP derivatives [2]
+UMP and analogues [3]","[1] Bello, Angelica M et al. “Structure-activity relationships of C6-uridine derivatives targeting plasmodia orotidine monophosphate decarboxylase.” Journal of medicinal chemistry vol. 51,3 (2008): 439-48. doi:10.1021/jm7010673
+[3] Purohit, Meena K et al. “Novel cytidine-based orotidine-5'-monophosphate decarboxylase inhibitors with an unusual twist.” Journal of medicinal chemistry vol. 55,22 (2012): 9988-97. doi:10.1021/jm301176r
+[3] Krungkrai, Sudaratana R et al. “A novel enzyme complex of orotate phosphoribosyltransferase and orotidine 5'-monophosphate decarboxylase in human malaria parasite Plasmodium falciparum: physical association, kinetics, and inhibition characterization.” Biochemistry vol. 44,5 (2005): 1643-52. doi:10.1021/bi048439h",Yes,Yes
+39,Lysyl-tRNA synthetase,KRS1,PF3D7_1350100,"Cladosporin [1]
+ASP3026 [2]","Baragaña, Beatriz et al. “Lysyl-tRNA synthetase as a drug target in malaria and cryptosporidiosis.” Proceedings of the National Academy of Sciences of the United States of America vol. 116,14 (2019): 7015-7020. doi:10.1073/pnas.1814685116
+[1] Chhibber-Goel, Jyoti, and Amit Sharma. “Side chain rotameric changes and backbone dynamics enable specific cladosporin binding in Plasmodium falciparum lysyl-tRNA synthetase.” Proteins vol. 87,9 (2019): 730-737. doi:10.1002/prot.25699
+[1] Hoepfner, Dominic et al. “Selective and specific inhibition of the plasmodium falciparum lysyl-tRNA synthetase by the fungal secondary metabolite cladosporin.” Cell host & microbe vol. 11,6 (2012): 654-63. doi:10.1016/j.chom.2012.04.015
+[2] Zhou, Jintong et al. “Inhibition of Plasmodium falciparum Lysyl-tRNA synthetase via an anaplastic lymphoma kinase inhibitor.” Nucleic acids research vol. 48,20 (2020): 11566-11576. doi:10.1093/nar/gkaa862
+Chhibber-Goel, Jyoti et al. “Structural analyses of the malaria parasite aminoacyl-tRNA synthetases provide new avenues for antimalarial drug discovery.” Protein science : a publication of the Protein Society vol. 30,9 (2021): 1793-1803. doi:10.1002/pro.4148",Yes,Yes
+40,Translation elongation factor 2,eEF2,PF3D7_1451100,M5717 (DDD498),"McCarthy, James S et al. “Safety, pharmacokinetics, and antimalarial activity of the novel plasmodium eukaryotic translation elongation factor 2 inhibitor M5717: a first-in-human, randomised, placebo-controlled, double-blind, single ascending dose study and volunteer infection study.” The Lancet. Infectious diseases vol. 21,12 (2021): 1713-1724. doi:10.1016/S1473-3099(21)00252-8
+Dechering, Koen J et al. “Modelling mosquito infection at natural parasite densities identifies drugs targeting EF2, PI4K or ATP4 as key candidates for interrupting malaria transmission.” Scientific reports vol. 7,1 17680. 15 Dec. 2017, doi:10.1038/s41598-017-16671-0
+Baragaña, Beatriz et al. “A novel multiple-stage antimalarial agent that inhibits protein synthesis.” Nature vol. 522,7556 (2015): 315-20. doi:10.1038/nature14451",Yes,Yes
+41,Niemann-Pick type C1-related protein ,NCR1,PF3D7_0107500,"MMV009108 [1]
+MMV019662
+MMV028038","Istvan, Eva S et al. “Plasmodium Niemann-Pick type C1-related protein is a druggable target required for parasite membrane homeostasis.” eLife vol. 8 e40529. 19 Mar. 2019, doi:10.7554/eLife.40529
+[1] Zhang, Zhemin et al. “The Plasmodium falciparum NCR1 transporter is an antimalarial target that exports cholesterol from the parasite's plasma membrane.” Science advances vol. 10,51 (2024): eadq6651. doi:10.1126/sciadv.adq6651
+Bhatnagar, Suyash et al. “Diverse Chemical Compounds Target Plasmodium falciparum Plasma Membrane Lipid Homeostasis.” ACS infectious diseases vol. 5,4 (2019): 550-558. doi:10.1021/acsinfecdis.8b00277",Yes,Yes
+42,Acyl-CoA synthetase 11,ACS11,PF3D7_1238800,"MMV693183 [1]
+MMV183 [2]","[1] Bopp, Selina et al. “Potent acyl-CoA synthetase 10 inhibitors kill Plasmodium falciparum by disrupting triglyceride formation.” Nature communications vol. 14,1 1455. 16 Mar. 2023, doi:10.1038/s41467-023-36921-2
+[1] de Vries, Laura E et al. “Preclinical characterization and target validation of the antimalarial pantothenamide MMV693183.” Nature communications vol. 13,1 2158. 20 Apr. 2022, doi:10.1038/s41467-022-29688-5
+[2] Schalkwijk, Joost et al. “Antimalarial pantothenamide metabolites target acetyl-coenzyme A biosynthesis in Plasmodium falciparum.” Science translational medicine vol. 11,510 (2019): eaas9917. doi:10.1126/scitranslmed.aas9917",Yes,Yes
+43,Importin alpha,IMPα,PF3D7_0812400,"Ivermectin, GW5074 [1]
+Caffeic Acid Phenethyl Ester (CAPE) [2]
+BAY 11-7085 [3]","[1] Walunj, Sujata B et al. “Conservation of Importin α Function in Apicomplexans: Ivermectin and GW5074 Target Plasmodium falciparum Importin α and Inhibit Parasite Growth in Culture.” International journal of molecular sciences vol. 23,22 13899. 11 Nov. 2022, doi:10.3390/ijms232213899
+[2] Bhambid, Manasi et al. “Importin α inhibitors act against the differentiated stages of apicomplexan parasites Plasmodium falciparum and Toxoplasma gondii.” The Journal of antimicrobial chemotherapy, dkae434. 18 Dec. 2024, doi:10.1093/jac/dkae434
+[3] Walunj, Sujata B et al. “High-Throughput Screening to Identify Inhibitors of Plasmodium falciparum Importin α.” Cells vol. 11,7 1201. 2 Apr. 2022, doi:10.3390/cells11071201",Yes,Yes
+44,Prolyl-tRNA synthetase,cProRS,PF3D7_1213800,"Febrifugine [1] 
+Halofuginone [2]","Hewitt, Stephen Nakazawa et al. “Biochemical and Structural Characterization of Selective Allosteric Inhibitors of the Plasmodium falciparum Drug Target, Prolyl-tRNA-synthetase.” ACS infectious diseases vol. 3,1 (2017): 34-44. doi:10.1021/acsinfecdis.6b00078
+Herman, Jonathan D et al. “The cytoplasmic prolyl-tRNA synthetase of the malaria parasite is a dual-stage target of febrifugine and its analogs.” Science translational medicine vol. 7,288 (2015): 288ra77. doi:10.1126/scitranslmed.aaa3575
+Okaniwa, Masanori et al. “Repositioning and Characterization of 1-(Pyridin-4-yl)pyrrolidin-2-one Derivatives as Plasmodium Cytoplasmic Prolyl-tRNA Synthetase Inhibitors.” ACS infectious diseases vol. 7,6 (2021): 1680-1689. doi:10.1021/acsinfecdis.1c00020
+Chhibber-Goel, Jyoti et al. “Structural analyses of the malaria parasite aminoacyl-tRNA synthetases provide new avenues for antimalarial drug discovery.” Protein science : a publication of the Protein Society vol. 30,9 (2021): 1793-1803. doi:10.1002/pro.4148",Yes,Yes
+45,Acetyl-CoA Synthetase,ACAS,PF3D7_0627800,"MMV183 [1]
+MMV019721 [2]
+MMV084978 [3]
+MMV693183 [4]","Schalkwijk, Joost et al. “Antimalarial pantothenamide metabolites target acetyl-coenzyme A biosynthesis in Plasmodium falciparum.” Science translational medicine vol. 11,510 (2019): eaas9917. doi:10.1126/scitranslmed.aas9917
+[2,3] Summers, Robert L et al. “Chemogenomics identifies acetyl-coenzyme A synthetase as a target for malaria treatment and prevention.” Cell chemical biology vol. 29,2 (2022): 191-201.e8. doi:10.1016/j.chembiol.2021.07.010
+[4] de Vries, Laura E et al. “Preclinical characterization and target validation of the antimalarial pantothenamide MMV693183.” Nature communications vol. 13,1 2158. 20 Apr. 2022, doi:10.1038/s41467-022-29688-5",Yes,Yes
+46,Phosphoethanolamine N-methyltransferase,PMT,PF3D7_1343000,"Amodiaquine [1] 
+MMV019918 analog (Compound 25) [2]","[1] Bobenchik, April M et al. “Identification of inhibitors of Plasmodium falciparum phosphoethanolamine methyltransferase using an enzyme-coupled transmethylation assay.” BMC biochemistry vol. 11 4. 19 Jan. 2010, doi:10.1186/1471-2091-11-4
+[2] Vallone, Alessandra et al. “Antimalarial agents against both sexual and asexual parasites stages: structure-activity relationships and biological studies of the Malaria Box compound 1-[5-(4-bromo-2-chlorophenyl)furan-2-yl]-N-[(piperidin-4-yl)methyl]methanamine (MMV019918) and analogues.” European journal of medicinal chemistry vol. 150 (2018): 698-718. doi:10.1016/j.ejmech.2018.03.024
+Lee, Soon Goo et al. “Crystal structure of phosphoethanolamine methyltransferase from Plasmodium falciparum in complex with amodiaquine.” Bioorganic & medicinal chemistry letters vol. 22,15 (2012): 4990-3. doi:10.1016/j.bmcl.2012.06.032
+Lee, Soon Goo et al. “Structure and reaction mechanism of phosphoethanolamine methyltransferase from the malaria parasite Plasmodium falciparum: an antiparasitic drug target.” The Journal of biological chemistry vol. 287,2 (2012): 1426-34. doi:10.1074/jbc.M111.315267",Yes,Yes
+47,Threonine--tRNA ligase,ThrRS,PF3D7_1126000,"Borrelidin [1]
+TM84 analogue (Comp 4) [2]","[1] Fröhler, J et al. “Genetic analysis of mutations causing borrelidin resistance by overproduction of threonyl-transfer ribonucleic acid synthetase.” Journal of bacteriology vol. 143,3 (1980): 1135-41. doi:10.1128/jb.143.3.1135-1141.1980
+[2] Buitrago, Jhon Alexander Rodriguez et al. “Synthesis and evaluation of an agrocin 84 toxic moiety (TM84) analogue as a malarial threonyl tRNA synthetase inhibitor.” Organic & biomolecular chemistry vol. 21,26 5433-5439. 5 Jul. 2023, doi:10.1039/d3ob00670k
+Sugawara, Akihiro et al. “Borrelidin analogues with antimalarial activity: design, synthesis and biological evaluation against Plasmodium falciparum parasites.” Bioorganic & medicinal chemistry letters vol. 23,8 (2013): 2302-5. doi:10.1016/j.bmcl.2013.02.075
+Ishiyama, Aki et al. “Borrelidin, a potent antimalarial: stage-specific inhibition profile of synchronized cultures of Plasmodium falciparum.” The Journal of antibiotics vol. 64,5 (2011): 381-4. doi:10.1038/ja.2011.6
+Bobrovs, Raitis et al. “Structure-based identification of salicylic acid derivatives as malarial threonyl tRNA-synthetase inhibitors.” PloS one vol. 19,4 e0296995. 1 Apr. 2024, doi:10.1371/journal.pone.0296995
+Bolsakova, Jekaterina et al. “Discovery of Malarial Threonyl tRNA Synthetase Inhibitors by Screening of a Focused Fragment Library.” ACS medicinal chemistry letters vol. 15,1 76-80. 14 Dec. 2023, doi:10.1021/acsmedchemlett.3c00403",Yes,Yes
+48,Phenylalanine--tRNA ligase alpha subunit,cPheRS / cFRS,PF3D7_0109800,"BRD1095 [1]
+Azetidines (BRD1389) [2]","[1] Kato, Nobutaka et al. “Diversity-oriented synthesis yields novel multistage antimalarial inhibitors.” Nature vol. 538,7625 (2016): 344-349. doi:10.1038/nature19804
+[2] Sharma, Manmohan et al. “Structural basis of malaria parasite phenylalanine tRNA-synthetase inhibition by bicyclic azetidines.” Nature communications vol. 12,1 343. 12 Jan. 2021, doi:10.1038/s41467-020-20478-5
+Chhibber-Goel, Jyoti et al. “Structural analyses of the malaria parasite aminoacyl-tRNA synthetases provide new avenues for antimalarial drug discovery.” Protein science : a publication of the Protein Society vol. 30,9 (2021): 1793-1803. doi:10.1002/pro.4148",Yes,Yes
+49,Phenylalanine--tRNA ligase beta subunit,cPheRS / cFRS,PF3D7_1104000,"BRD1095 [1]
+Azetidines (BRD1389) [2]","[1] Kato, Nobutaka et al. “Diversity-oriented synthesis yields novel multistage antimalarial inhibitors.” Nature vol. 538,7625 (2016): 344-349. doi:10.1038/nature19804
+[2] Sharma, Manmohan et al. “Structural basis of malaria parasite phenylalanine tRNA-synthetase inhibition by bicyclic azetidines.” Nature communications vol. 12,1 343. 12 Jan. 2021, doi:10.1038/s41467-020-20478-5
+Chhibber-Goel, Jyoti et al. “Structural analyses of the malaria parasite aminoacyl-tRNA synthetases provide new avenues for antimalarial drug discovery.” Protein science : a publication of the Protein Society vol. 30,9 (2021): 1793-1803. doi:10.1002/pro.4148",Yes,Yes
+50,Nucleoside/nucleobase transporter ,NT1 / ENT1,PF3D7_1347200,"GSK4 [1]
+Furamide and benzamide derivatives [2]","Parker, M D et al. “Identification of a nucleoside/nucleobase transporter from Plasmodium falciparum, a novel target for anti-malarial chemotherapy.” The Biochemical journal vol. 349,Pt 1 (2000): 67-75. doi:10.1042/0264-6021:3490067
+[1] Wang, Chen et al. “Structural basis of the substrate recognition and inhibition mechanism of Plasmodium falciparum nucleoside transporter PfENT1.” Nature communications vol. 14,1 1727. 28 Mar. 2023, doi:10.1038/s41467-023-37411-1
+[2] Frame, I J et al. “Yeast-based high-throughput screen identifies Plasmodium falciparum equilibrative nucleoside transporter 1 inhibitors that kill malaria parasites.” ACS chemical biology vol. 10,3 (2015): 775-83. doi:10.1021/cb500981y",Yes,Yes
+51,Formate-nitrite transporter,FNT,PF3D7_0316600,"MMV007839, MMV000972","Hapuarachchi, Sanduni V et al. “The Malaria Parasite's Lactate Transporter PfFNT Is the Target of Antiplasmodial Compounds Identified in Whole Cell Phenotypic Screens.” PLoS pathogens vol. 13,2 e1006180. 8 Feb. 2017, doi:10.1371/journal.ppat.1006180
+Davies, Heledd et al. “The Plasmodium Lactate/H+ Transporter PfFNT Is Essential and Druggable In Vivo.” Antimicrobial agents and chemotherapy vol. 67,8 (2023): e0035623. doi:10.1128/aac.00356-23
+Cheuka, Peter Mubanga et al. “Emerging Drug Targets for Antimalarial Drug Discovery: Validation and Insights into Molecular Mechanisms of Function.” Journal of medicinal chemistry vol. 67,2 (2024): 838-863. doi:10.1021/acs.jmedchem.3c01828",Yes,Yes
+52,beta-hydroxyacyl-ACP dehydratase,Fab Z ,PF3D7_1323000,NAS-91 [1],"[1] Sharma, Shailendra Kumar et al. “Identification, characterization, and inhibition of Plasmodium falciparum beta-hydroxyacyl-acyl carrier protein dehydratase (FabZ).” The Journal of biological chemistry vol. 278,46 (2003): 45661-71. doi:10.1074/jbc.M304283200
+Tasdemir, Deniz, et al. ""Inhibition of Plasmodium f alciparum fatty acid biosynthesis: evaluation of FabG, FabZ, and FabI as drug targets for flavonoids."" Journal of medicinal chemistry 49.11 (2006): 3345-3353.
+Maity, Koustav, et al. ""Structural basis for the functional and inhibitory mechanisms of β-hydroxyacyl-acyl carrier protein dehydratase (FabZ) of Plasmodium falciparum."" Journal of structural biology 176.2 (2011): 238-249.",Yes,Yes
+53,START lipid transfer protein,START1,PF3D7_0104200,MMV006833,"Dans, Madeline G et al. “Aryl amino acetamides prevent Plasmodium falciparum ring development via targeting the lipid-transfer protein PfSTART1.” Nature communications vol. 15,1 5219. 18 Jun. 2024, doi:10.1038/s41467-024-49491-8
+Hill, Ross J et al. “Regulation and Essentiality of the StAR-related Lipid Transfer (START) Domain-containing Phospholipid Transfer Protein PFA0210c in Malaria Parasites.” The Journal of biological chemistry vol. 291,46 (2016): 24280-24292. doi:10.1074/jbc.M116.740506
+Nguyen, William, et al. ""Activity refinement of aryl amino acetamides that target the P. falciparum STAR-related lipid transfer 1 protein."" European Journal of Medicinal Chemistry 270 (2024): 116354.",Yes,Yes
+54,DNA damage inducible 1 protein,DDI1,PF3D7_1409300,ART,"Tanneru, Nandita et al. “Plasmodium DDI1 is a potential therapeutic target and important chromatin-associated protein.” International journal for parasitology vol. 53,3 (2023): 157-175. doi:10.1016/j.ijpara.2022.11.007
+Onchieku, Noah Machuki et al. “Artemisinin Binds and Inhibits the Activity of Plasmodium falciparum Ddi1, a Retroviral Aspartyl Protease.” Pathogens (Basel, Switzerland) vol. 10,11 1465. 11 Nov. 2021, doi:10.3390/pathogens10111465
+Onchieku, Noah Machuki, et al. ""Artemisinin acts by inhibiting Plasmodium falciparum Ddi1, a retropepsin, resulting into the accumulation of ubiquitinated proteins."" bioRxiv (2021): 2021-07.",Yes,Yes
+55,Parasitophorous vacuole membrane protein S16,Pfs16,PF3D7_0406200,DDD01035881,"Yahiya, Sabrina et al. “A novel class of sulphonamides potently block malaria transmission by targeting a Plasmodium vacuole membrane protein.” Disease models & mechanisms vol. 16,2 (2023): dmm049950. doi:10.1242/dmm.049950
+Yahiya, Sabrina, et al. ""Plasmodium falciparum protein Pfs16 is a target for transmission-blocking antimalarial drug development."" BioRxiv (2021): 2021-06.
+Berry, Antoine, et al. ""Pfs 16 pivotal role in Plasmodium falciparum gametocytogenesis: a potential antiplasmodial drug target."" Experimental Parasitology 121.2 (2009): 189-192.",Yes,Yes
+56,Histone acetyltransferase GCN5,GCN5,PF3D7_0823300,"C14 [1]
+Anacardic acid [2]
+Curcumin [3]
+Embelin [4]","[1] Kumar, Amarjeet et al. “Designing novel inhibitors against histone acetyltransferase (HAT: GCN5) of Plasmodium falciparum.” European journal of medicinal chemistry vol. 138 (2017): 26-37. doi:10.1016/j.ejmech.2017.06.009
+[2] Cui, Long et al. “Histone acetyltransferase inhibitor anacardic acid causes changes in global gene expression during in vitro Plasmodium falciparum development.” Eukaryotic cell vol. 7,7 (2008): 1200-10. doi:10.1128/EC.00063-08
+[3] Cui, Long et al. “Cytotoxic effect of curcumin on malaria parasite Plasmodium falciparum: inhibition of histone acetylation and generation of reactive oxygen species.” Antimicrobial agents and chemotherapy vol. 51,2 (2007): 488-94. doi:10.1128/AAC.01238-06
+[4] Srivastava, Sandeep et al. “Histone H3K9 acetylation level modulates gene expression and may affect parasite growth in human malaria parasite Plasmodium falciparum.” The FEBS journal vol. 281,23 (2014): 5265-78. doi:10.1111/febs.13067",Yes,Yes
+57,Pyridoxine biosynthesis protein 1,PDX1,PF3D7_0621200,"E4P [1]
+4PEHz [2]
+DATP 18 [3]","[1,2] Reeksting, Shaun B et al. “Exploring inhibition of Pdx1, a component of the PLP synthase complex of the human malaria parasite Plasmodium falciparum.” The Biochemical journal vol. 449,1 (2013): 175-87. doi:10.1042/BJ20120925
+[3] Moorthy, Hariharan et al. “Antiplasmodial and Antimalarial Activity of 3,5-Diarylidenetetrahydro-2H-pyran-4(3H)-ones via Inhibition of Plasmodium falciparum Pyridoxal Synthase.” ChemMedChem vol. 18,1 (2023): e202200411. doi:10.1002/cmdc.202200411
+Barra, Angélica Luana C et al. “Structural Dynamics and Perspectives of Vitamin B6 Biosynthesis Enzymes in Plasmodium: Advances and Open Questions.” Frontiers in cellular and infection microbiology vol. 11 688380. 13 Jul. 2021, doi:10.3389/fcimb.2021.688380",Yes,Yes
+58,Heme detoxification protein,HDP,PF3D7_1446800,"Compound 8 [1]
+Compound 8b [2]","[1] Gupta, Priya et al. “Exploring Heme and Hemoglobin Binding Regions of Plasmodium Heme Detoxification Protein for New Antimalarial Discovery.” Journal of medicinal chemistry vol. 60,20 (2017): 8298-8308. doi:10.1021/acs.jmedchem.7b00089
+[2] Sakata Y, Yabunaka K, Kobayashi Y, Omiya H, Umezawa N, Kim HS, Wataya Y, Tomita Y, Hisamatsu Y, Kato N, Yagi H, Satoh T, Kato K, Ishikawa H, Higuchi T. Potent Antimalarial Activity of Two Arenes Linked with Triamine Designed To Have Multiple Interactions with Heme. ACS Med Chem Lett. 2018 Sep 24;9(10):980-985. doi: 10.1021/acsmedchemlett.8b00222. PMID: 30344903; PMCID: PMC6187406.
+Nema S, Chaturvedi R, Verma K, Anvikar AR, Tiwari A, Bharti PK. A computational strategy for systematic virtual screening of plasmodium falciparum heme detoxification protein inhibitors from the Drugbank database. J Biomol Struct Dyn. 2025 Apr;43(6):3156-3171. doi: 10.1080/07391102.2023.2301510. Epub 2024 Jan 10. PMID: 38197419.",Yes,Yes
+59,Falcilysin,FLN,PF3D7_1360800,"Compound 4u [1]
+MK-4815 [2]
+MMV000848, MMV665806 [3]
+ZN-11, NC-05 [4]","[1] Chance, Jeffrey P et al. “Development of piperazine-based hydroxamic acid inhibitors against falcilysin, an essential malarial protease.” Bioorganic & medicinal chemistry letters vol. 28,10 (2018): 1846-1848. doi:10.1016/j.bmcl.2018.04.010
+[2] Lin J, Yan X, Chung Z, Liew CW, El Sahili A, Pechnikova EV, Preiser PR, Bozdech Z, Gao YG, Lescar J. Inhibition of falcilysin from Plasmodium falciparum by interference with its closed-to-open dynamic transition. Commun Biol. 2024 Aug 31;7(1):1070. doi: 10.1038/s42003-024-06774-6. PMID: 39217277; PMCID: PMC11365994.
+[3] Wirjanata G, Lin J, Dziekan JM, El Sahili A, Chung Z, Tjia S, Binte Zulkifli NE, Boentoro J, Tham R, Jia LS, Go KD, Yu H, Partridge A, Olsen D, Prabhu N, Sobota RM, Nordlund P, Lescar J, Bozdech Z. Identification of an inhibitory pocket in falcilysin provides a new avenue for malaria drug development. Cell Chem Biol. 2024 Apr 18;31(4):743-759.e8. doi: 10.1016/j.chembiol.2024.03.002. Epub 2024 Apr 8. PMID: 38593807.
+[4] Eagon S, Howland M, Heying M, Callant E, Brar N, Pompa E, Mallari JP. Identification of Plasmodium falciparum falcilysin inhibitors by a virtual screen. Bioorg Med Chem Lett. 2021 Nov 15;52:128394. doi: 10.1016/j.bmcl.2021.128394. Epub 2021 Oct 1. PMID: 34606998.
+Kahlon, Gulbag et al. “Structure guided development of potent piperazine-derived hydroxamic acid inhibitors targeting falcilysin.” Bioorganic & medicinal chemistry letters vol. 32 (2021): 127683. doi:10.1016/j.bmcl.2020.127683",Yes,Yes
+60,Arginase,Arg,PF3D7_0906500,"2-amino-6-borono-2-methylhexanoic acid [1]
+Compounds 1r, 1q [2]
+ABH [3]","[1,3] Ilies, Monica et al. “Binding of α,α-disubstituted amino acids to arginase suggests new avenues for inhibitor design.” Journal of medicinal chemistry vol. 54,15 (2011): 5432-43. doi:10.1021/jm200443b
+[2] Kos J, Strharsky T, Tosso R, Gutierrez L, Kos D, Jurica J, Zendulka O, Pes O, Gregorova J, Degotte G, Gonec T, Oravec M, Vojackova V, Krystof V, Cizek A, Francotte P, Frederich M, Jampilek J, Enriz D. Trifluoromethylcinnamanilides - Effective dual inhibitors of Mycobacterium smegmatis and Plasmodium falciparum. Bioorg Chem. 2025 Jan;154:107957. doi: 10.1016/j.bioorg.2024.107957. Epub 2024 Nov 19. PMID: 39615279.
+[3] Dowling DP, Ilies M, Olszewski KL, Portugal S, Mota MM, Llinás M, Christianson DW. Crystal structure of arginase from Plasmodium falciparum and implications for L-arginine depletion in malarial infection . Biochemistry. 2010 Jul 6;49(26):5600-8. doi: 10.1021/bi100390z. PMID: 20527960; PMCID: PMC2894275.
+Bak A, Kos J, Degotte G, Swietlicka A, Strharsky T, Pindjakova D, Gonec T, Smolinski A, Francotte P, Frederich M, Kozik V, Jampilek J. Towards Arginase Inhibition: Hybrid SAR Protocol for Property Mapping of Chlorinated N-arylcinnamamides. Int J Mol Sci. 2023 Feb 10;24(4):3611. doi: 10.3390/ijms24043611. PMID: 36835023; PMCID: PMC9968098.",Yes,Yes
+61,Deoxyhypusine synthase,DHS,PF3D7_1412600,"1,7-diaminoheptane [1]
+GC7 [2]","[1] Kaiser A, Gottwald A, Wiersch C, Lindenthal B, Maier W, Seitz HM. Effect of drugs inhibiting spermidine biosynthesis and metabolism on the in vitro development of Plasmodium falciparum. Parasitol Res. 2001 Nov;87(11):963-72. doi: 10.1007/s004360100460. PMID: 11728024.
+[2] Aroonsri A, Posayapisit N, Kongsee J, Siripan O, Vitsupakorn D, Utaida S, Uthaipibull C, Kamchonwongpaisan S, Shaw PJ. Validation of Plasmodium falciparum deoxyhypusine synthase as an antimalarial target. PeerJ. 2019 Apr 17;7:e6713. doi: 10.7717/peerj.6713. PMID: 31024761; PMCID: PMC6475138.
+Aroonsri A, Posayapisit N, Kongsee J, Siripan O, Vitsupakorn D, Utaida S, Uthaipibull C, Kamchonwongpaisan S, Shaw PJ. Validation of Plasmodium falciparum deoxyhypusine synthase as an antimalarial target. PeerJ. 2019 Apr 17;7:e6713. doi: 10.7717/peerj.6713. PMID: 31024761; PMCID: PMC6475138.
+Kaiser, Annette et al. “Modification of eukaryotic initiation factor 5A from Plasmodium vivax by a truncated deoxyhypusine synthase from Plasmodium falciparum: An enzyme with dual enzymatic properties.” Bioorganic & medicinal chemistry vol. 15,18 (2007): 6200-7. doi:10.1016/j.bmc.2007.06.026",Yes,Yes
+62,Peptide deformylase,PDF,PF3D7_0907900,"Compound I [1]
+Actinonin [2]
+Compound 1b [3]","[1] Bracchi-Ricard, V et al. “Characterization of an eukaryotic peptide deformylase from Plasmodium falciparum.” Archives of biochemistry and biophysics vol. 396,2 (2001): 162-70. doi:10.1006/abbi.2001.2631
+[2] Wiesner, J et al. “Seeking new targets for antiparasitic agents.” Trends in parasitology vol. 17,1 (2001): 7-8. doi:10.1016/s1471-4922(00)01735-9
+[3] Kumar, Abhinav et al. “Crystals of peptide deformylase from Plasmodium falciparum reveal critical characteristics of the active site for drug design.” Structure (London, England : 1993) vol. 10,3 (2002): 357-67. doi:10.1016/s0969-2126(02)00719-0
+Sangshetti, Jaiprakash N et al. “Peptide deformylase: a new target in antibacterial, antimalarial and anticancer drug discovery.” Current medicinal chemistry vol. 22,2 (2015): 214-36. doi:10.2174/0929867321666140826115734",Yes,Yes
+63,Topoisomerase I,TopoI,PF3D7_0510500,"LQB223 [1]
+Camptothecin [2]","[1] Cortopassi, Wilian A et al. “Theoretical and experimental studies of new modified isoflavonoids as potential inhibitors of topoisomerase I from Plasmodium falciparum.” PloS one vol. 9,3 e91191. 20 Mar. 2014, doi:10.1371/journal.pone.0091191
+[2] Bodley, A L et al. “Effects of camptothecin, a topoisomerase I inhibitor, on Plasmodium falciparum.” Biochemical pharmacology vol. 55,5 (1998): 709-11. doi:10.1016/s0006-2952(97)00556-x
+Tosh, K et al. “Plasmodium falciparum: stage-related expression of topoisomerase I.” Experimental parasitology vol. 91,2 (1999): 126-32. doi:10.1006/expr.1998.4362",Yes,Yes
+64,Protein kinase 5,PK5,PF3D7_1356900,"Compound 2b [1]
+Olomoucine, Flavopiridol [2]","[1] Eubanks, Amber L et al. “In silico Screening and Evaluation of Plasmodium falciparum Protein Kinase 5 (PK5) Inhibitors.” ChemMedChem vol. 13,23 (2018): 2479-2483. doi:10.1002/cmdc.201800625
+[2] Graeser, R et al. “Plasmodium falciparum protein kinase 5 and the malarial nuclear division cycles.” Molecular and biochemical parasitology vol. 82,1 (1996): 37-49. doi:10.1016/0166-6851(96)02716-8
+Keenan, Susan M, and William J Welsh. “Characteristics of the Plasmodium falciparum PK5 ATP-binding site: implications for the design of novel antimalarial agents.” Journal of molecular graphics & modelling vol. 22,3 (2004): 241-7. doi:10.1016/j.jmgm.2003.09.002
+Le Roch, K et al. “Activation of a Plasmodium falciparum cdc2-related kinase by heterologous p25 and cyclin H. Functional characterization of a P. falciparum cyclin homologue.” The Journal of biological chemistry vol. 275,12 (2000): 8952-8. doi:10.1074/jbc.275.12.8952",Yes,Yes
+65,Spermidine synthase,SPDS,PF3D7_1129000,"Cyclohexylamine [1]
+Compound 9 [2]","[1] Becker, John V W et al. “Plasmodium falciparum spermidine synthase inhibition results in unique perturbation-specific effects observed on transcript, protein and metabolite levels.” BMC genomics vol. 11 235. 12 Apr. 2010, doi:10.1186/1471-2164-11-235
+[2] Burger, Pieter B et al. “A novel inhibitor of Plasmodium falciparum spermidine synthase: a twist in the tail.” Malaria journal vol. 14 54. 5 Feb. 2015, doi:10.1186/s12936-015-0572-z
+Jacobsson, Micael et al. “Identification of Plasmodium falciparum spermidine synthase active site binders through structure-based virtual screening.” Journal of medicinal chemistry vol. 51,9 (2008): 2777-86. doi:10.1021/jm7016144",Yes,Yes
+66,Glycogen synthase kinase 3-beta,GSK3beta,PF3D7_0312400,"3,6-Diamino-4-(2-halophenyl)-2-benzoylthieno[2,3-b]pyridine-5-carbonitriles [1]
+Compound 5k, 5m, 5p, 5r, 5s [2]","[1] Fugel, Wiebke et al. “3,6-Diamino-4-(2-halophenyl)-2-benzoylthieno[2,3-b]pyridine-5-carbonitriles are selective inhibitors of Plasmodium falciparum glycogen synthase kinase-3.” Journal of medicinal chemistry vol. 56,1 (2013): 264-75. doi:10.1021/jm301575n
+[2] Moolman, Chantalle et al. “Exploration of benzofuran-based compounds as potent and selective Plasmodium falciparum glycogen synthase kinase-3 (PfGSK-3) inhibitors.” Bioorganic chemistry vol. 112 (2021): 104839. doi:10.1016/j.bioorg.2021.104839
+Alder, Arne et al. “Functional inactivation of Plasmodium falciparum glycogen synthase kinase GSK3 modulates erythrocyte invasion and blocks gametocyte maturation.” The Journal of biological chemistry vol. 298,9 (2022): 102360. doi:10.1016/j.jbc.2022.102360
+Droucheau, Eliane et al. “Plasmodium falciparum glycogen synthase kinase-3: molecular model, expression, intracellular localisation and selective inhibitors.” Biochimica et biophysica acta vol. 1697,1-2 (2004): 181-96. doi:10.1016/j.bbapap.2003.11.023",Yes,Yes
+67,Glyceraldehyde-3-phosphate dehydrogenase,GAPDH,PF3D7_1462800,"Compound 1c [1]
+Compound 12 [2]
+Dihydroxyacetone [3]*","[1] Cullia, Gregorio et al. “Covalent Inhibitors of Plasmodium falciparum Glyceraldehyde 3-Phosphate Dehydrogenase with Antimalarial Activity in Vitro.” ACS medicinal chemistry letters vol. 10,4 590-595. 20 Feb. 2019, doi:10.1021/acsmedchemlett.8b00592
+[2] Galbiati, Andrea et al. “Development of Potent 3-Br-isoxazoline-Based Antimalarial and Antileishmanial Compounds.” ACS medicinal chemistry letters vol. 12,11 1726-1732. 13 Oct. 2021, doi:10.1021/acsmedchemlett.1c00354
+[3] Pavlovic-Djuranovic, Slavica et al. “Dihydroxyacetone and methylglyoxal as permeants of the Plasmodium aquaglyceroporin inhibit parasite proliferation.” Biochimica et biophysica acta vol. 1758,8 (2006): 1012-7. doi:10.1016/j.bbamem.2005.12.002",Yes,Yes
+68,Hypoxanthine-guanine phosphoribosyltransferase,HGPRT / HGXPRT,PF3D7_1012400,"Compounds 13a, 13b [1]
+Compound 28 [2]
+K859, KZD60, KZD70 [3]","[1] Frydrych, Jan et al. “Nucleotide analogues containing a pyrrolidine, piperidine or piperazine ring: Synthesis and evaluation of inhibition of plasmodial and human 6-oxopurine phosphoribosyltransferases and in vitro antimalarial activity.” European journal of medicinal chemistry vol. 219 (2021): 113416. doi:10.1016/j.ejmech.2021.113416
+[2] Špaček, Petr et al. “Synthesis and Evaluation of Asymmetric Acyclic Nucleoside Bisphosphonates as Inhibitors of Plasmodium falciparum and Human Hypoxanthine-Guanine-(Xanthine) Phosphoribosyltransferase.” Journal of medicinal chemistry vol. 60,17 (2017): 7539-7554. doi:10.1021/acs.jmedchem.7b00926
+[3] Masia, Kgaugelo J et al. “Antiplasmodial potential of compounds isolated from Ziziphus mucronata and their binding to Plasmodium falciparum HGXPRT using biophysical and molecular docking studies.” Naunyn-Schmiedeberg's archives of pharmacology vol. 398,5 (2025): 5453-5463. doi:10.1007/s00210-024-03611-9
+Hazleton, Keith Z et al. “Acyclic immucillin phosphonates: second-generation inhibitors of Plasmodium falciparum hypoxanthine-guanine-xanthine phosphoribosyltransferase.” Chemistry & biology vol. 19,6 (2012): 721-30. doi:10.1016/j.chembiol.2012.04.012",Yes,Yes
+69,NIMA related kinase 1,NEK1,PF3D7_1228300,"Hesperadin [1]
+Xestoquinone [2]
+Alisiaquinones A [3]
+Compound 4a [4]","[1] Morahan, Belinda J et al. “Human Aurora kinase inhibitor Hesperadin reveals epistatic interaction between Plasmodium falciparum PfArk1 and PfNek1 kinases.” Communications biology vol. 3,1 701. 20 Nov. 2020, doi:10.1038/s42003-020-01424-z
+[2] Laurent, Dominique et al. “Antimalarial potential of xestoquinone, a protein kinase inhibitor isolated from a Vanuatu marine sponge Xestospongia sp.” Bioorganic & medicinal chemistry vol. 14,13 (2006): 4477-82. doi:10.1016/j.bmc.2006.02.026
+[3] Desoubzdanne, Denis et al. “Alisiaquinones and alisiaquinol, dual inhibitors of Plasmodium falciparum enzyme targets from a New Caledonian deep water sponge.” Journal of natural products vol. 71,7 (2008): 1189-92. doi:10.1021/np8000909
+[4] Lebouvier, Nicolas et al. “Antiplasmodial activities of homogentisic acid derivative protein kinase inhibitors isolated from a Vanuatu marine sponge Pseudoceratina sp.” Marine drugs vol. 7,4 640-53. 23 Nov. 2009, doi:10.3390/md7040640",Yes,Yes
+70,Protein kinase 6,PK6,PF3D7_1337100,"Roscovitine [1]
+Ki8751 [2]
+Compounds 67, 79 [3]","[1] Bracchi-Ricard, V et al. “PfPK6, a novel cyclin-dependent kinase/mitogen-activated protein kinase-related protein kinase from Plasmodium falciparum.” The Biochemical journal vol. 347 Pt 1,Pt 1 (2000): 255-63. 
+[2,3] Ong, Han Wee et al. “Discovery of potent Plasmodium falciparum protein kinase 6 (PfPK6) inhibitors with a type II inhibitor pharmacophore.” European journal of medicinal chemistry vol. 249 (2023): 115043. doi:10.1016/j.ejmech.2022.115043
+Galal, Kareem A et al. “Identification of Novel 2,4,5-Trisubstituted Pyrimidines as Potent Dual Inhibitors of Plasmodial PfGSK3/PfPK6 with Activity against Blood Stage Parasites In Vitro.” Journal of medicinal chemistry vol. 65,19 (2022): 13172-13197. doi:10.1021/acs.jmedchem.2c00996",Yes,Yes
+71,Malate dehydrogenase,MDH,PF3D7_0618500,"4PA [1]
+Compound 5, 7 [2]*
+Gossypol [3]*","[1] Reyes Romero, Atilio et al. “A fragment-based approach identifies an allosteric pocket that impacts malate dehydrogenase activity.” Communications biology vol. 4,1 949. 10 Aug. 2021, doi:10.1038/s42003-021-02442-1
+*[2] Choi, Seoung-ryoung et al. “Design, synthesis, and biological evaluation of Plasmodium falciparum lactate dehydrogenase inhibitors.” Journal of medicinal chemistry vol. 50,16 (2007): 3841-50. doi:10.1021/jm070336k
+*[3] Tripathi, Abhai K et al. “An alpha-proteobacterial type malate dehydrogenase may complement LDH function in Plasmodium falciparum. Cloning and biochemical characterization of the enzyme.” European journal of biochemistry vol. 271,17 (2004): 3488-502. doi:10.1111/j.1432-1033.2004.04281.x
+Kayamba, Francis et al. “Lactate dehydrogenase and malate dehydrogenase: Potential antiparasitic targets for drug development studies.” Bioorganic & medicinal chemistry vol. 50 (2021): 116458. doi:10.1016/j.bmc.2021.116458",Yes,Yes
+72,Malate:quinone oxidoreductase,MQO,PF3D7_0616800,"Nornidulin [1]
+MMV688179 [2] 
+MMV688271 [3]
+MMV690028 [4]
+MMV690027 [5]
+Compound 1 [6]
+Ferulenol [7]","[1] Cahyono, Alfian Wika et al. “Nornidulin, A New Inhibitor of Plasmodium falciparum Malate: Quinone Oxidoreductase (PfMQO) from Indonesian Aspergillus sp. BioMCC f.T.8501.” Pharmaceuticals (Basel, Switzerland) vol. 16,2 268. 10 Feb. 2023, doi:10.3390/ph16020268
+[2,3,4,5] Wang, Xinying et al. “Identification of Plasmodium falciparum Mitochondrial Malate: Quinone Oxidoreductase Inhibitors from the Pathogen Box.” Genes vol. 10,6 471. 21 Jun. 2019, doi:10.3390/genes10060471
+[6] Hidayati, Agriana Rosmalina et al. “Effect of geranylated dihydrochalcone from Artocarpus altilis leaves extract on Plasmodium falciparum ultrastructural changes and mitochondrial malate: Quinone oxidoreductase.” International journal for parasitology. Drugs and drug resistance vol. 21 (2023): 40-50. doi:10.1016/j.ijpddr.2022.12.001
+[7] Hartuti, Endah Dwi et al. “Biochemical studies of membrane bound Plasmodium falciparum mitochondrial L-malate:quinone oxidoreductase, a potential drug target.” Biochimica et biophysica acta. Bioenergetics vol. 1859,3 (2018): 191-200. doi:10.1016/j.bbabio.2017.12.004",Yes,Yes
+73,S-adenosylmethionine decarboxylase/ornithine decarboxylase,AdoMetDC/ODC,PF3D7_1033100,"Genz-644131 [1]
+CGP52622A [2]
+CGP54619A [3]
+Alpha-difluoromethylornithine [4]
+CGP 40215A [5]","[1] le Roux, Dina et al. “Novel S-adenosyl-L-methionine decarboxylase inhibitors as potent antiproliferative agents against intraerythrocytic Plasmodium falciparum parasites.” International journal for parasitology. Drugs and drug resistance vol. 4,1 28-36. 5 Dec. 2013, doi:10.1016/j.ijpddr.2013.11.003
+[2,3] Krause, T et al. “The ornithine decarboxylase domain of the bifunctional ornithine decarboxylase/S-adenosylmethionine decarboxylase of Plasmodium falciparum: recombinant expression and catalytic properties of two different constructs.” The Biochemical journal vol. 352 Pt 2,Pt 2 (2000): 287-92.
+[4] Clark, Katherine et al. “Transcriptional responses of Plasmodium falciparum to alpha-difluoromethylornithine-induced polyamine depletion.” Biological chemistry vol. 389,2 (2008): 111-25. doi:10.1515/BC.2008.014
+[5] Das Gupta, Robin et al. “3-Aminooxy-1-aminopropane and derivatives have an antiproliferative effect on cultured Plasmodium falciparum by decreasing intracellular polyamine concentrations.” Antimicrobial agents and chemotherapy vol. 49,7 (2005): 2857-64. doi:10.1128/AAC.49.7.2857-2864.2005
+Hart, Robert J et al. “Plasmodium AdoMetDC/ODC bifunctional enzyme is essential for male sexual stage development and mosquito transmission.” Biology open vol. 5,8 1022-9. 15 Aug. 2016, doi:10.1242/bio.016352
+Blavid, Robert et al. “Down-regulation of hypusine biosynthesis in Plasmodium by inhibition of S-adenosyl-methionine-decarboxylase.” Amino acids vol. 38,2 (2010): 461-9. doi:10.1007/s00726-009-0405-x
+Müller, S et al. “In the human malaria parasite Plasmodium falciparum, polyamines are synthesized by a bifunctional ornithine decarboxylase, S-adenosylmethionine decarboxylase.” The Journal of biological chemistry vol. 275,11 (2000): 8097-102. doi:10.1074/jbc.275.11.8097",Yes,Yes
+74,Deoxyhypusine hydroxylase,DOHH / DHH, PF3D7_1302600,"DHH1 [1]
+MMV007384 [2]","[1] Saeftel M, Sarite RS, Njuguna T, Holzgrabe U, Ulmer D, Hoerauf A, Kaiser A. Piperidones with activity against Plasmodium falciparum. Parasitol Res. 2006 Aug;99(3):281-6. doi: 10.1007/s00436-006-0173-4. Epub 2006 Mar 21. PMID: 16550432.
+[2] von Koschitzky, Imke et al. “New insights into novel inhibitors against deoxyhypusine hydroxylase from plasmodium falciparum: compounds with an iron chelating potential.” Amino acids vol. 47,6 (2015): 1155-66. doi:10.1007/s00726-015-1943-z
+Kerscher B, Nzukou E, Kaiser A. Assessment of deoxyhypusine hydroxylase as a putative, novel drug target. Amino Acids. 2010 Feb;38(2):471-7. doi: 10.1007/s00726-009-0406-9. Epub 2009 Dec 3. PMID: 19956997.",Yes,Yes
+75,M18 aspartyl aminopeptidase,M18AAP,PF3D7_0932300,"ML369 [1]
+CID 6852389, CID 23724194 [2]","[1] Schoenen, Frank J., et al. “Inhibitors of the Plasmodium falciparum M18 Aspartyl Aminopeptidase.” Probe Reports from the NIH Molecular Libraries Program, National Center for Biotechnology Information (US), 12 April 2013.
+[2] Spicer, Timothy et al. “Identification of Potent and Selective Inhibitors of the Plasmodium falciparum M18 Aspartyl Aminopeptidase (PfM18AAP) of Human Malaria via High-Throughput Screening.” Journal of biomolecular screening vol. 19,7 (2014): 1107-15. doi:10.1177/1087057114525852
+Teuscher, Franka et al. “The M18 aspartyl aminopeptidase of the human malaria parasite Plasmodium falciparum.” The Journal of biological chemistry vol. 282,42 (2007): 30817-26. doi:10.1074/jbc.M704938200",Yes,Yes
+76,"Casein Kinase 2, alpha",CK2alpha,PF3D7_1108400,"Compound 542 [1]
+CX4945 [2]*
+Quinalizarin [3]*","[1] Tomaz, Kaira C P et al. “Identification of potential inhibitors of casein kinase 2 alpha of Plasmodium falciparum with potent in vitro activity.” Antimicrobial agents and chemotherapy vol. 67,11 (2023): e0058923. doi:10.1128/aac.00589-23
+[2] Ruiz-Carrillo, David et al. “The protein kinase CK2 catalytic domain from Plasmodium falciparum: crystal structure, tyrosine kinase activity and inhibition.” Scientific reports vol. 8,1 7365. 9 May. 2018, doi:10.1038/s41598-018-25738-5
+[3] Graciotti, Michele et al. “Malaria protein kinase CK2 (PfCK2) shows novel mechanisms of regulation.” PloS one vol. 9,3 e85391. 21 Mar. 2014, doi:10.1371/journal.pone.0085391
+Hitz, Eva et al. “The catalytic subunit of Plasmodium falciparum casein kinase 2 is essential for gametocytogenesis.” Communications biology vol. 4,1 336. 12 Mar. 2021, doi:10.1038/s42003-021-01873-0
+Holland, Zoë et al. “Functional analysis of protein kinase CK2 of the human malaria parasite Plasmodium falciparum.” Eukaryotic cell vol. 8,3 (2009): 388-97. doi:10.1128/EC.00334-08",Yes,Yes
+77,Enoyl-ACP reductase,ENR / FabI,PF3D7_0615100,"Triclosan [1]
+Genz 8575 [2]","Tasdemir, Deniz, et al. ""Inhibition of Plasmodium f alciparum fatty acid biosynthesis: evaluation of FabG, FabZ, and FabI as drug targets for flavonoids."" Journal of medicinal chemistry 49.11 (2006): 3345-3353.
+[1] Surolia, N, and A Surolia. “Triclosan offers protection against blood stages of malaria by inhibiting enoyl-ACP reductase of Plasmodium falciparum.” Nature medicine vol. 7,2 (2001): 167-73. doi:10.1038/84612
+[1] McLeod, R et al. “Triclosan inhibits the growth of Plasmodium falciparum and Toxoplasma gondii by inhibition of apicomplexan Fab I.” International journal for parasitology vol. 31,2 (2001): 109-13. doi:10.1016/s0020-7519(01)00111-4
+Kuo, Mack R et al. “Targeting tuberculosis and malaria through inhibition of Enoyl reductase: compound activity and structural data.” The Journal of biological chemistry vol. 278,23 (2003): 20851-9. doi:10.1074/jbc.M211968200",Yes,Yes
+78,Adenosine deaminase,ADA,PF3D7_1029600,"5′-MeS-Coformycin [1]
+Deoxycoformycin [2]**","[1] Tyler, Peter C et al. “Synthesis of 5'-methylthio coformycins: specific inhibitors for malarial adenosine deaminase.” Journal of the American Chemical Society vol. 129,21 (2007): 6872-9. doi:10.1021/ja0708363
+[2] Becker, John V W et al. “Plasmodium falciparum spermidine synthase inhibition results in unique perturbation-specific effects observed on transcript, protein and metabolite levels.” BMC genomics vol. 11 235. 12 Apr. 2010, doi:10.1186/1471-2164-11-235
+Ting, Li-Min et al. “Targeting a novel Plasmodium falciparum purine recycling pathway with specific immucillins.” The Journal of biological chemistry vol. 280,10 (2005): 9547-54. doi:10.1074/jbc.M412693200
+*Larson, Eric T et al. “Structures of substrate- and inhibitor-bound adenosine deaminase from a human malaria parasite show a dramatic conformational change and shed light on drug selectivity.” Journal of molecular biology vol. 381,4 (2008): 975-88. doi:10.1016/j.jmb.2008.06.048
+*Ho, Meng-Chiao et al. “Structural and metabolic specificity of methylthiocoformycin for malarial adenosine deaminases.” Biochemistry vol. 48,40 (2009): 9618-26. doi:10.1021/bi9012484",Yes,Yes
+79,Protein farnesyltransferase subunit beta,FTB,PF3D7_1147500,"MMV019066 [1]
+R115777 [2]
+BMS-388891 [3]
+ L-745631 [4]
+FTI-276 [5]","[1] Cowell, Annie N et al. “Mapping the malaria parasite druggable genome by using in vitro evolution and chemogenomics.” Science (New York, N.Y.) vol. 359,6372 (2018): 191-199. doi:10.1126/science.aan4472
+[2] Ha, Young Ran et al. “Effect of Farnesyltransferase Inhibitor R115777 on Mitochondria of Plasmodium falciparum.” The Korean journal of parasitology vol. 53,4 (2015): 421-30. doi:10.3347/kjp.2015.53.4.421
+[3] Eastman, Richard T et al. “Resistance to a protein farnesyltransferase inhibitor in Plasmodium falciparum.” The Journal of biological chemistry vol. 280,14 (2005): 13554-9. doi:10.1074/jbc.M413556200
+Kohring, Katja et al. “Development of benzophenone-based farnesyltransferase inhibitors as novel antimalarials.” ChemMedChem vol. 3,8 (2008): 1217-31. doi:10.1002/cmdc.200800043
+Glenn, Matthew P et al. “Structurally simple, potent, Plasmodium selective farnesyltransferase inhibitors that arrest the growth of malaria parasites.” Journal of medicinal chemistry vol. 49,19 (2006): 5710-27. doi:10.1021/jm060081v
+Fletcher, Steven et al. “Potent, Plasmodium-selective farnesyltransferase inhibitors that arrest the growth of malaria parasites: structure-activity relationships of ethylenediamine-analogue scaffolds and homology model validation.” Journal of medicinal chemistry vol. 51,17 (2008): 5176-97. doi:10.1021/jm800113p
+Olepu, Srinivas et al. “2-Oxo-tetrahydro-1,8-naphthyridines as selective inhibitors of malarial protein farnesyltransferase and as anti-malarials.” Bioorganic & medicinal chemistry letters vol. 18,2 (2008): 494-7. doi:10.1016/j.bmcl.2007.11.104",Yes,Yes
+80,Beta-tubulin,bTub,PF3D7_1008700,"Oryzalin [1]
+APM [2]
+Ttrifluralin [3]","[1,2] Dempsey, Enda et al. “Antimitotic herbicides bind to an unidentified site on malarial parasite tubulin and block development of liver-stage Plasmodium parasites.” Molecular and biochemical parasitology vol. 188,2 (2013): 116-27. doi:10.1016/j.molbiopara.2013.03.001
+[1,2] Hirst, William G et al. “Purification of functional Plasmodium falciparum tubulin allows for the identification of parasite-specific microtubule inhibitors.” Current biology : CB vol. 32,4 (2022): 919-926.e6. doi:10.1016/j.cub.2021.12.049
+[3] Fennell, Brian J et al. “Cellular and molecular actions of dinitroaniline and phosphorothioamidate herbicides on Plasmodium falciparum: tubulin as a specific antimalarial target.” Molecular and biochemical parasitology vol. 145,2 (2006): 226-38. doi:10.1016/j.molbiopara.2005.08.020",Yes,Yes
+81,Alpha-tubulin,aTub,PF3D7_0903700,"Oryzalin [1]
+APM [2]
+Ttrifluralin [3]","[1,2] Dempsey, Enda et al. “Antimitotic herbicides bind to an unidentified site on malarial parasite tubulin and block development of liver-stage Plasmodium parasites.” Molecular and biochemical parasitology vol. 188,2 (2013): 116-27. doi:10.1016/j.molbiopara.2013.03.001
+[1,2] Hirst, William G et al. “Purification of functional Plasmodium falciparum tubulin allows for the identification of parasite-specific microtubule inhibitors.” Current biology : CB vol. 32,4 (2022): 919-926.e6. doi:10.1016/j.cub.2021.12.049
+[3] Fennell, Brian J et al. “Cellular and molecular actions of dinitroaniline and phosphorothioamidate herbicides on Plasmodium falciparum: tubulin as a specific antimalarial target.” Molecular and biochemical parasitology vol. 145,2 (2006): 226-38. doi:10.1016/j.molbiopara.2005.08.020",Yes,Yes
+82,Plasmepsin X,PMX,PF3D7_0808200,"49c [1]
+WM4 [2]
+Aminohydantoins (TCMD-134675 , TCMD- 136879, CWHM-117) [3]
+Compound 7k [4]
+Ritonavir [5]
+WM382 (Dual with PMIX) [6]","[1] Kesari, Pooja et al. “Structures of plasmepsin X from Plasmodium falciparum reveal a novel inactivation mechanism of the zymogen and molecular basis for binding of inhibitors in mature enzyme.” Protein science : a publication of the Protein Society vol. 31,4 (2022): 882-899. doi:10.1002/pro.4279
+[2.6] Hodder, Anthony N et al. “Basis for drug selectivity of plasmepsin IX and X inhibition in Plasmodium falciparum and vivax.” Structure (London, England : 1993) vol. 30,7 (2022): 947-961.e6. doi:10.1016/j.str.2022.03.018
+[2,6] Favuzza, Paola et al. “Dual Plasmepsin-Targeting Antimalarial Agents Disrupt Multiple Stages of the Malaria Parasite Life Cycle.” Cell host & microbe vol. 27,4 (2020): 642-658.e12. doi:10.1016/j.chom.2020.02.005
+[3] Nasamu, Armiyaw S et al. “Plasmepsins IX and X are essential and druggable mediators of malaria parasite egress and invasion.” Science (New York, N.Y.) vol. 358,6362 (2017): 518-522. doi:10.1126/science.aan1478
+[4] Kovada, Vadims et al. “Macrocyclic Peptidomimetic Plasmepsin X Inhibitors with Potent In Vitro and In Vivo Antimalarial Activity.” Journal of medicinal chemistry vol. 66,15 (2023): 10658-10680. doi:10.1021/acs.jmedchem.3c00812
+[5] Mishra, Vandana et al. “Inhibition of Plasmodium falciparum plasmepsins by drugs targeting HIV-1 protease: A way forward for antimalarial drug discovery.” Current research in structural biology vol. 7 100128. 17 Jan. 2024, doi:10.1016/j.crstbi.2024.100128
+Richardson, Lachlan W et al. “Substrate Peptidomimetic Inhibitors of P. falciparum Plasmepsin X with Potent Antimalarial Activity.” ChemMedChem vol. 17,18 (2022): e202200306. doi:10.1002/cmdc.202200306",No,Yes
+83,Phosphatidylinositol 4-kinase,PI4K,PF3D7_0509800,"MMV390048 [1]
+KDU691 [2]
+KAI407 [3]
+BQR695 [4]
+BRD73842 [5]
+CHMFL-PI4K-127 [6]
+NCATS-SM3710 [7]","McNamara, Case W et al. “Targeting Plasmodium PI(4)K to eliminate malaria.” Nature vol. 504,7479 (2013): 248-253. doi:10.1038/nature12782
+Dechering, Koen J et al. “Modelling mosquito infection at natural parasite densities identifies drugs targeting EF2, PI4K or ATP4 as key candidates for interrupting malaria transmission.” Scientific reports vol. 7,1 17680. 15 Dec. 2017, doi:10.1038/s41598-017-16671-0
+[1] Paquet, Tanya et al. “Antimalarial efficacy of MMV390048, an inhibitor of Plasmodium phosphatidylinositol 4-kinase.” Science translational medicine vol. 9,387 (2017): eaad9735. doi:10.1126/scitranslmed.aad9735
+[6] Liang, Xiaofei et al. “Discovery of 6'-chloro-N-methyl-5'-(phenylsulfonamido)-[3,3'-bipyridine]-5-carboxamide (CHMFL-PI4K-127) as a novel Plasmodium falciparum PI(4)K inhibitor with potent antimalarial activity against both blood and liver stages of Plasmodium.” European journal of medicinal chemistry vol. 188 (2020): 112012. doi:10.1016/j.ejmech.2019.112012
+[7] Krishnan, Karthik et al. “Torin 2 Derivative, NCATS-SM3710, Has Potent Multistage Antimalarial Activity through Inhibition of P. falciparum Phosphatidylinositol 4-Kinase (Pf PI4KIIIβ).” ACS pharmacology & translational science vol. 3,5 948-964. 11 Sep. 2020, doi:10.1021/acsptsci.0c00078",No,Yes
+84,2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase,IspD,PF3D7_0106900,"MMV08138 [1]
+Fosmidomycin [2]
+MMV019313 [3]
+1R,3S-MMV008138 [4]","[1] Wu, Wesley et al. “A chemical rescue screen identifies a Plasmodium falciparum apicoplast inhibitor targeting MEP isoprenoid precursor biosynthesis.” Antimicrobial agents and chemotherapy vol. 59,1 (2015): 356-64. doi:10.1128/AAC.03342-14
+[2] Zhang, Baichen et al. “A second target of the antimalarial and antibacterial agent fosmidomycin revealed by cellular metabolic profiling.” Biochemistry vol. 50,17 (2011): 3570-7. doi:10.1021/bi200113y
+[4] Imlay, Leah S et al. “Plasmodium IspD (2-C-Methyl-D-erythritol 4-Phosphate Cytidyltransferase), an Essential and Druggable Antimalarial Target.” ACS infectious diseases vol. 1,4 (2015): 157-167. doi:10.1021/id500047s
+Willocx, Daan et al. “Targeting Plasmodium falciparum IspD in the Methyl-d-erythritol Phosphate Pathway: Urea-Based Compounds with Nanomolar Potency on Target and Low-Micromolar Whole-Cell Activity.” Journal of medicinal chemistry vol. 67,19 (2024): 17070-17086. doi:10.1021/acs.jmedchem.4c00212
+Diamanti, Eleonora et al. “Targeting the IspD Enzyme in the MEP Pathway: Identification of a Novel Fragment Class.” ChemMedChem vol. 17,5 (2022): e202100679. doi:10.1002/cmdc.202100679",No,Yes
+85,Subtilisin-like protease 1,SUB1,PF3D7_0507500,Peptidic boronic acids [1],"[1] Lidumniece, Elina et al. “Peptidic boronic acids are potent cell-permeable inhibitors of the malaria parasite egress serine protease SUB1.” Proceedings of the National Academy of Sciences of the United States of America vol. 118,20 (2021): e2022696118. doi:10.1073/pnas.2022696118
+[1] Withers-Martinez, Chrislaine et al. “Peptidic Boronic Acid Plasmodium falciparum SUB1 Inhibitors with Improved Selectivity over Human Proteasome.” Journal of medicinal chemistry vol. 67,15 (2024): 13033-13055. doi:10.1021/acs.jmedchem.4c01005
+Withers-Martinez, Chrislaine et al. “Plasmodium subtilisin-like protease 1 (SUB1): insights into the active-site structure, specificity and function of a pan-malaria drug target.” International journal for parasitology vol. 42,6 (2012): 597-612. doi:10.1016/j.ijpara.2012.04.005
+Alam, Asrar. “Serine Proteases of Malaria Parasite Plasmodium falciparum: Potential as Antimalarial Drug Targets.” Interdisciplinary perspectives on infectious diseases vol. 2014 (2014): 453186. doi:10.1155/2014/453186",No,Yes
+86,Topoisomerase VIB,TopoVIB / TOP6B,PF3D7_1365600,"Radicicol [1]
+Etoposide [2]
+Analog 2 [3]","[1] Chalapareddy, Sureshkumar et al. “Radicicol confers mid-schizont arrest by inhibiting mitochondrial replication in Plasmodium falciparum.” Antimicrobial agents and chemotherapy vol. 58,8 (2014): 4341-52. doi:10.1128/AAC.02519-13
+[1,2] Chalapareddy, Sureshkumar et al. “Radicicol-Mediated Inhibition of Topoisomerase VIB-VIA Activity of the Human Malaria Parasite Plasmodium falciparum.” mSphere vol. 1,1 e00025-15. 6 Jan. 2016, doi:10.1128/mSphere.00025-15
+[3] Bansod, Shephali et al. “Molecular docking and molecular dynamics simulation identify a novel Radicicol derivative that predicts exclusive binding to Plasmodium falciparum Topoisomerase VIB.” Journal of biomolecular structure & dynamics vol. 40,15 (2022): 6939-6951. doi:10.1080/07391102.2021.1891970",No,Yes
+87,Apicortin,DCX,PF3D7_0517800,"TMX [1]
+miR-197 [2]","[1] Chakrabarti, Malabika et al. “Interaction of Plasmodium falciparum apicortin with α- and β-tubulin is critical for parasite growth and survival.” Scientific reports vol. 11,1 4688. 25 Feb. 2021, doi:10.1038/s41598-021-83513-5
+[2] Chakrabarti, Malabika et al. “Targeted repression of Plasmodium apicortin by host microRNA impairs malaria parasite growth and invasion.” Disease models & mechanisms vol. 13,6 dmm042820. 3 Jun. 2020, doi:10.1242/dmm.042820
+Orosz, Ferenc. “Apicortin, a Constituent of Apicomplexan Conoid/Apical Complex and Its Tentative Role in Pathogen-Host Interaction.” Tropical medicine and infectious disease vol. 6,3 118. 30 Jun. 2021, doi:10.3390/tropicalmed6030118",No,Yes
+88,DNA Gyrase subunit B,GyrB,PF3D7_1239500,PPG [1],"[1] Pakosz, Zuzanna et al. “Inhibitory Compounds Targeting Plasmodium falciparum Gyrase B.” Antimicrobial agents and chemotherapy vol. 65,10 (2021): e0026721. doi:10.1128/AAC.00267-21
+Raghu Ram, E V S et al. “Nuclear gyrB encodes a functional subunit of the Plasmodium falciparum gyrase that is involved in apicoplast DNA replication.” Molecular and biochemical parasitology vol. 154,1 (2007): 30-9. doi:10.1016/j.molbiopara.2007.04.001
+Nagano, Soshichiro et al. “Unique features of apicoplast DNA gyrases from Toxoplasma gondii and Plasmodium falciparum.” BMC bioinformatics vol. 15,1 416. 19 Dec. 2014, doi:10.1186/s12859-014-0416-9",No,Yes
+89,RAC-beta serine/threonine protein kinase,PKB,PF3D7_1246900,"Go 6983 [1]
+A443654 [2]","[1] Kumar, Amit et al. “PfPKB, a novel protein kinase B-like enzyme from Plasmodium falciparum: I. Identification, characterization, and possible role in parasite development.” The Journal of biological chemistry vol. 279,23 (2004): 24255-64. doi:10.1074/jbc.M312855200
+[2] Vaid, Ankush et al. “Role of Ca2+/calmodulin-PfPKB signaling pathway in erythrocyte invasion by Plasmodium falciparum.” The Journal of biological chemistry vol. 283,9 (2008): 5589-97. doi:10.1074/jbc.M708465200
+Ong, Han Wee et al. “Characterization of 2,4-Dianilinopyrimidines Against Five P. falciparum Kinases PfARK1, PfARK3, PfNEK3, PfPK9, and PfPKB.” ACS medicinal chemistry letters vol. 14,12 1774-1784. 27 Nov. 2023, doi:10.1021/acsmedchemlett.3c00354",No,Yes
+90,Pantothenate kinase 1,PANK1,PF3D7_1420600,"Gnetin C [1]
+PanOH [2]
+CJ-15,801 [2]
+CJ-15,801 analogues [3]
+Pantothenic Acid Analogs [4]","[1] Nurkanto, Arif et al. “Characterization of Plasmodium falciparum Pantothenate Kinase and Identification of Its Inhibitors From Natural Products.” Frontiers in cellular and infection microbiology vol. 11 639065. 9 Mar. 2021, doi:10.3389/fcimb.2021.639065
+[2] Tjhin, Erick T et al. “Mutations in the pantothenate kinase of Plasmodium falciparum confer diverse sensitivity profiles to antiplasmodial pantothenate analogues.” PLoS pathogens vol. 14,4 e1006918. 3 Apr. 2018, doi:10.1371/journal.ppat.1006918
+[3] Spry, Christina et al. “Structure-activity analysis of CJ-15,801 analogues that interact with Plasmodium falciparum pantothenate kinase and inhibit parasite proliferation.” European journal of medicinal chemistry vol. 143 (2018): 1139-1147. doi:10.1016/j.ejmech.2017.08.050
+[4] Spry, Christina et al. “A class of pantothenic acid analogs inhibits Plasmodium falciparum pantothenate kinase and represses the proliferation of malaria parasites.” Antimicrobial agents and chemotherapy vol. 49,11 (2005): 4649-57. doi:10.1128/AAC.49.11.4649-4657.2005",No,Yes
+91,Lysophospholipase 1,LPL1,PF3D7_1476700,"EcAgNPs [1]
+LAMe [2]
+C3 [3]","[1] Tiwari, Savitri et al. “Biogenically synthesized green silver nanoparticles exhibit antimalarial activity.” Discover nano vol. 19,1 136. 31 Aug. 2024, doi:10.1186/s11671-024-04098-2
+[2,3] Dienemann, Jan-Niklas et al. “A Chemical Proteomic Strategy Reveals Inhibitors of Lipoate Salvage in Bacteria and Parasites.” Angewandte Chemie (International ed. in English) vol. 62,31 (2023): e202304533. doi:10.1002/anie.202304533
+Asad, Mohd et al. “An essential vesicular-trafficking phospholipase mediates neutral lipid synthesis and contributes to hemozoin formation in Plasmodium falciparum.” BMC biology vol. 19,1 159. 11 Aug. 2021, doi:10.1186/s12915-021-01042-z",No,Yes
+92,"3',5'-cyclic nucleotide phosphodiesterase beta",PDEbeta,PF3D7_1321500,"Zaprinast [1]
+BIPPO [2]","Flueck, Christian et al. “Phosphodiesterase beta is the master regulator of cAMP signalling during malaria parasite invasion.” PLoS biology vol. 17,2 e3000154. 22 Feb. 2019, doi:10.1371/journal.pbio.3000154
+[1] Yuasa, Keizo et al. “PfPDE1, a novel cGMP-specific phosphodiesterase from the human malaria parasite Plasmodium falciparum.” The Biochemical journal vol. 392,Pt 1 (2005): 221-9. doi:10.1042/BJ20050425
+[2] Howard, Brittany L et al. “Identification of potent phosphodiesterase inhibitors that demonstrate cyclic nucleotide-dependent functions in apicomplexan parasites.” ACS chemical biology vol. 10,4 (2015): 1145-54. doi:10.1021/cb501004q
+*Gomez-Gonzalez, Paula-Josefina et al. “Inhibitors of malaria parasite cyclic nucleotide phosphodiesterases block asexual blood-stage development and mosquito transmission.” Science advances vol. 10,49 (2024): eadq1383. doi:10.1126/sciadv.adq1383",No,Yes
+93,Adenylyl cyclase beta,ACbeta,PF3D7_0802600,"KH7 [1]
+2-CE [2]","[1,2] Salazar, Eric et al. “Characterization of Plasmodium falciparum adenylyl cyclase-β and its role in erythrocytic stage parasites.” PloS one vol. 7,6 (2012): e39769. doi:10.1371/journal.pone.0039769
+*Dawn, Amrita et al. “The central role of cAMP in regulating Plasmodium falciparum merozoite invasion of human erythrocytes.” PLoS pathogens vol. 10,12 e1004520. 18 Dec. 2014, doi:10.1371/journal.ppat.1004520
+*Lasonder, Edwin et al. “cAMP-Dependent Signaling Pathways as Potential Targets for Inhibition of Plasmodium falciparum Blood Stages.” Frontiers in microbiology vol. 12 684005. 24 May. 2021, doi:10.3389/fmicb.2021.684005",No,Yes
+94,Cytoadherence linked asexual protein 3.1,CLAG3.1,PF3D7_0302500,"PRT [1]
+ISPA-28 [2] 
+Furosemide derivatives [3]","[1] Staines, Henry M et al. “Exploiting the therapeutic potential of Plasmodium falciparum solute transporters.” Trends in parasitology vol. 26,6 (2010): 284-96. doi:10.1016/j.pt.2010.03.004
+[2] Ekland, Eric H et al. “Taking Charge: Feeding Malaria via Anion Channels.” Cell vol. 145,5 (2011): 645-7. doi:10.1016/j.cell.2011.05.012
+[3] Pain, Margaret et al. “Synergistic Malaria Parasite Killing by Two Types of Plasmodial Surface Anion Channel Inhibitors.” PloS one vol. 11,2 e0149214. 11 Feb. 2016, doi:10.1371/journal.pone.0149214",No,Yes
+95,Cytoadherence linked asexual protein 3.2,CLAG3.2,PF3D7_0302200,"PRT [1]
+ISPA-28 [2] 
+Furosemide derivatives [3]","[1] Staines, Henry M et al. “Exploiting the therapeutic potential of Plasmodium falciparum solute transporters.” Trends in parasitology vol. 26,6 (2010): 284-96. doi:10.1016/j.pt.2010.03.004
+[2] Ekland, Eric H et al. “Taking Charge: Feeding Malaria via Anion Channels.” Cell vol. 145,5 (2011): 645-7. doi:10.1016/j.cell.2011.05.012
+[3] Pain, Margaret et al. “Synergistic Malaria Parasite Killing by Two Types of Plasmodial Surface Anion Channel Inhibitors.” PloS one vol. 11,2 e0149214. 11 Feb. 2016, doi:10.1371/journal.pone.0149214",No,Yes
+96,Cytochrome b-c1 complex subunit Rieske,Rieske,PF3D7_1439400,Atovaquone,"Sheokand, Pradeep Kumar et al. “Plasmodium falciparum Mitochondrial Complex III, the Target of Atovaquone, Is Essential for Progression to the Transmissible Sexual Stages.” International journal of molecular sciences vol. 25,17 9239. 26 Aug. 2024, doi:10.3390/ijms25179239
+Hughes, Louise M et al. “Probing binding determinants in center P of the cytochrome bc(1) complex using novel hydroxy-naphthoquinones.” Biochimica et biophysica acta vol. 1797,1 (2010): 38-43. doi:10.1016/j.bbabio.2009.07.010
+Kessl, Jacques J et al. “Molecular basis for atovaquone binding to the cytochrome bc1 complex.” The Journal of biological chemistry vol. 278,33 (2003): 31312-8. doi:10.1074/jbc.M304042200",No,No
+97,TP-dependent zinc metalloprotease FTSH 1,FTSH1,PF3D7_1239700,Actinonin [1],"[1] Amberg-Johnson, Katherine et al. “Small molecule inhibition of apicomplexan FtsH1 disrupts plastid biogenesis in human pathogens.” eLife vol. 6 e29865. 18 Aug. 2017, doi:10.7554/eLife.29865
+Goodman, Christopher D et al. “A single point mutation in the Plasmodium falciparum FtsH1 metalloprotease confers actinonin resistance.” eLife vol. 9 e58629. 17 Jul. 2020, doi:10.7554/eLife.58629
+Amberg-Johnson, Katherine, et al. ""A first-in-class inhibitor of parasite FtsH disrupts plastid biogenesis in human pathogens."" bioRxiv (2017): 108910.",No,No
+98,Apical membrane antigen 1,AMA1,PF3D7_1133400,"F1 peptide [1]
+mAb4G2 [2]
+tF1, F1tbp [3]","[1] Li F, Dluzewski A, Coley AM, Thomas A, Tilley L, Anders RF, Foley M. Phage-displayed peptides bind to the malarial protein apical membrane antigen-1 and inhibit the merozoite invasion of host erythrocytes. J Biol Chem. 2002 Dec 27;277(52):50303-10. doi: 10.1074/jbc.M207985200. Epub 2002 Oct 14. PMID: 12381731.
+[2] Kocken CH, van der Wel AM, Dubbeld MA, Narum DL, van de Rijke FM, van Gemert GJ, van der Linde X, Bannister LH, Janse C, Waters AP, Thomas AW. Precise timing of expression of a Plasmodium falciparum-derived transgene in Plasmodium berghei is a critical determinant of subsequent subcellular localization. J Biol Chem. 1998 Jun 12;273(24):15119-24. doi: 10.1074/jbc.273.24.15119. PMID: 9614123.
+[3] Keizer DW, Miles LA, Li F, Nair M, Anders RF, Coley AM, Foley M, Norton RS. Structures of phage-display peptides that bind to the malarial surface protein, apical membrane antigen 1, and block erythrocyte invasion. Biochemistry. 2003 Aug 26;42(33):9915-23. doi: 10.1021/bi034376b. PMID: 12924940.
+Harris KS, Casey JL, Coley AM, Masciantonio R, Sabo JK, Keizer DW, Lee EF, McMahon A, Norton RS, Anders RF, Foley M. Binding hot spot for invasion inhibitory molecules on Plasmodium falciparum apical membrane antigen 1. Infect Immun. 2005 Oct;73(10):6981-9. doi: 10.1128/IAI.73.10.6981-6989.2005. PMID: 16177378; PMCID: PMC1230972.
+Ge, Xiaopeng et al. “Ligand-induced conformational change of Plasmodium falciparum AMA1 detected using 19F NMR.” Journal of medicinal chemistry vol. 57,15 (2014): 6419-27. doi:10.1021/jm500390g",No,No
+99,Phosphatidylinositol-3-kinase,PI3K,PF3D7_0515300,"Wortmannin
+LY294002","Vaid, Ankush et al. “PfPI3K, a phosphatidylinositol-3 kinase from Plasmodium falciparum, is exported to the host erythrocyte and is involved in hemoglobin trafficking.” Blood vol. 115,12 (2010): 2500-7. doi:10.1182/blood-2009-08-238972
+Verma, Kanika et al. “An integrated virtual screening and drug repurposing strategy for the discovery of new antimalarial drugs against Plasmodium falciparum phosphatidylinositol 3-kinase.” Journal of cellular biochemistry vol. 122,10 (2021): 1326-1336. doi:10.1002/jcb.29954
+Tawk, Lina et al. “Phosphatidylinositol 3-phosphate, an essential lipid in Plasmodium, localizes to the food vacuole membrane and the apicoplast.” Eukaryotic cell vol. 9,10 (2010): 1519-30. doi:10.1128/EC.00124-10
+Arendse, Lauren B., et al. ""Plasmodium kinases as potential drug targets for malaria: challenges and opportunities."" ACS Infectious Diseases 7.3 (2021): 518-5",No,No
+100,ATP-dependent DNA helicase,UvrD,PF3D7_0514100,dsRNA [1],"[1] Tarique, Mohammed et al. “Plasmodium falciparum UvrD activities are downregulated by DNA-interacting compounds and its dsRNA inhibits malaria parasite growth.” BMC biochemistry vol. 15 9. 3 Apr. 2014, doi:10.1186/1471-2091-15-9
+[1] Tarique, Mohammed et al. “ATPase activity of Plasmodium falciparum MLH is inhibited by DNA-interacting ligands and dsRNAs of MLH along with UvrD curtail malaria parasite growth.” Protoplasma vol. 254,3 (2017): 1295-1305. doi:10.1007/s00709-016-1021-8
+Tuteja, Renu. “Unraveling the importance of the malaria parasite helicases.” The FEBS journal vol. 284,16 (2017): 2592-2603. doi:10.1111/febs.14109",No,No
