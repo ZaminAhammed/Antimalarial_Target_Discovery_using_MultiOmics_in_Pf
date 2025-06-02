@@ -9,21 +9,19 @@ from sklearn.linear_model import LogisticRegression
 from sklearn.svm import SVC
 from sklearn.ensemble import RandomForestClassifier
 import xgboost as xgb
-import shap
 from tabpfn import TabPFNClassifier
 
-from sklearn.preprocessing import MinMaxScaler, StandardScaler
+from sklearn.preprocessing import StandardScaler
 from sklearn.model_selection import train_test_split, cross_val_score
-from sklearn.model_selection import GridSearchCV, learning_curve
-from sklearn.model_selection import LeaveOneOut, StratifiedKFold, KFold, StratifiedShuffleSplit
-
+from sklearn.model_selection import GridSearchCV, learning_curve, KFold
 from sklearn.metrics import roc_curve, auc, roc_auc_score, RocCurveDisplay
 from sklearn.metrics import precision_recall_curve, confusion_matrix
+import shap
+
 
 def main():
     print (f"Training Set supplied : '{sys.argv[1]}'")
-    print (f"Test Set supplied : '{sys.argv[2]}'")
-
+    
     #Models to be evaluated (hyperamaters are set based on GridSearch performed using TrainingSet_1)
     model_1 = LogisticRegression(C=2.0, max_iter=50, penalty='l1', solver='liblinear')
     model_2 = SVC(kernel='linear', probability=True)
@@ -32,25 +30,17 @@ def main():
     model_5 = TabPFNClassifier()
     models = [model_1, model_2, model_3, model_4, model_5]
     
-    #Data importing
+    #Data importing and cleaning
     train = pd.DataFrame(sys.argv[1])
-    test = pd.DataFrame(sys.argv[2])
-
-    #Cleaning data
     train_X, train_Y = clean_data(train)
-    test_X, test_Y = clean_data(test)
 
-    #Training
+    #Evaluating different models
     best_model = model_eval(models, train_X, train_Y)   
     shap_eval(model_4, train_X, train_Y)
     PR_curves(models, train_X, train_Y)
     learning_curves(models, train_X, train_Y)
 
-    #Classifying unlabelled test set
-    results = test(best_model, train_X, train_Y, test_X)
-    results.to_csv(sys.argv[3], index=False)
-
-    print (f"The final results have been saved to : '{sys.argv[3]}'\n")    
+    print (f"Best-performing model was identified as : {best_model}\n")    
 
 def clean_data(data, standardizer = StandardScaler()):
     data.dropna(inplace=True)
@@ -135,16 +125,6 @@ def learning_curves(models, X, Y):
     fig.delaxes(ax=axis[1, 2])
     fig.savefig(f'Learning_Curves.jpeg')
     fig.show()
-
-def test(model, train_X, train_Y, test):
-    model.fit(train_X_stand, train_Y)
-    probs = model.predict_proba(test_X_stand)
-    yes, no = [], []
-    for x in probs:
-        no.append(x[0])
-        yes.append(x[1])
-    test_results = pd.DataFrame({'Gene':test.Gene, 'Yes':yes, 'No':no})
-    return test_results
 
 if __name__ == "__main__":
     main()
